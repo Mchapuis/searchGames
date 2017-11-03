@@ -1,10 +1,10 @@
 # searchGames
-web project to search games from a database
+simple Web project to search games from a database. 
 
 
 ##### Game search website
 
-* using servlet, jsp, java *
+* using Servlets, JSP, Java and MySQL
 
 A user can login, register, search games and see their description
 
@@ -29,26 +29,26 @@ If you need to change the user and password to access your database, you need to
 * line 86 and 87 in LoginForm.java
 * line 225 and 226 in RegisterForm.java
 
-# XML files content
+### XML files content
 
-Information is from the open source website [GameDB API][http://wiki.thegamesdb.net/index.php/API_Introduction]
+Information is from the open source website [GameDB API](http://wiki.thegamesdb.net/index.php/API_Introduction)
 
 **each folder contain information for 5 games**
 
-* zelda 1
-* fish 2
-* mario 3
-* miami 4
-* myst 5
-* rabbit 6
-* red 7
-* sky 8
-* tokyo 9
-* batman 10
-* boy 11
-* car 12
-* creed 13
-* diablo 14
+* zelda 
+* fish 
+* mario 
+* miami 
+* myst 
+* rabbit 
+* red 
+* sky 
+* tokyo 
+* batman 
+* boy 
+* car 
+* creed 
+* diablo 
 
 **In each folder there are 5 full descriptions and 5 artifacts description**
 
