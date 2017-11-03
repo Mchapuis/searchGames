@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>47008</id>
+<GameTitle>Car race</GameTitle>
+<PlatformId>4950</PlatformId>
+<Platform>Game &amp;amp; Watch</Platform>
+<Co-op>No</Co-op>
+<Rating>5</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>49124</id><PlatformId>4929</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1136" height="640" thumb="boxart/thumb/original/front/47008-1.png">boxart/original/front/47008-1.png</boxart>
+</Images>
+</Game>
+</Data>

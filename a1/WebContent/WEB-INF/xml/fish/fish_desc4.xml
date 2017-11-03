@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>28763</id>
+<GameTitle>Devil Fish</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>01/01/1982</ReleaseDate>
+<Overview>The player controls a dog who must feed squids in order to make them trap themselves on the several passages of the maze, as they will be too fat to advance. When they are trapped, the dog must go against them and touch them. Immediately after that, a little house will appear on the center of the maze. Touch it and a part of a drawing will be revealed. Repeat this procedure until the image is totally revealed and you'll pass to the next level.</Overview>
+<Genres><genre>Strategy</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=2q3U1qkrBu0</Youtube>
+<Publisher>Artic</Publisher>
+<Developer>Artic</Developer>
+<Images>
+<boxart side="front" width="850" height="1133" thumb="boxart/thumb/original/front/28763-1.jpg">boxart/original/front/28763-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

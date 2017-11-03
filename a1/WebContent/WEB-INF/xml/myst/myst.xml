@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>40461</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>11/30/2007</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>4849</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>3DO</Platform>
+</Game>
+<Game>
+<id>6700</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>09/24/1993</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>12798</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>07/27/2012</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>11303</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Saturn</Platform>
+</Game>
+<Game>
+<id>5263</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Atari Jaguar CD</Platform>
+</Game>
+<Game>
+<id>18707</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>09/30/1996</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>30542</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>09/30/1996</ReleaseDate>
+<Platform>Sony Playstation Portable</Platform>
+</Game>
+<Game>
+<id>14905</id>
+<GameTitle>Myst</GameTitle>
+<ReleaseDate>01/01/1996</ReleaseDate>
+<Platform>Philips CD-i</Platform>
+</Game>
+<Game>
+<id>8026</id>
+<GameTitle>Myst IV: Revelation</GameTitle>
+<ReleaseDate>03/28/2005</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>21485</id>
+<GameTitle>Myst III: Exile</GameTitle>
+<ReleaseDate>05/08/2001</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>38366</id>
+<GameTitle>Myst IV: Revelation</GameTitle>
+<ReleaseDate>09/28/2004</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>8025</id>
+<GameTitle>Myst III: Exile</GameTitle>
+<ReleaseDate>09/22/2002</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>21063</id>
+<GameTitle>Myst: Masterpiece Edition</GameTitle>
+<ReleaseDate>05/12/2000</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>21518</id>
+<GameTitle>Uru: Ages Beyond Myst</GameTitle>
+<ReleaseDate>11/11/2003</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>23545</id>
+<GameTitle>Myst III - Exile</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>38368</id>
+<GameTitle>Myst V: End of Ages</GameTitle>
+<ReleaseDate>09/20/2005</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+</Data>

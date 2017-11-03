@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>12</id>
+<GameTitle>Assassin's Creed</GameTitle>
+<ReleaseDate>04/09/2008</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>7139</id>
+<GameTitle>Assassin's Creed</GameTitle>
+<ReleaseDate>11/13/2007</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>5927</id>
+<GameTitle>Assassin's Creed</GameTitle>
+<ReleaseDate>11/13/2007</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>35055</id>
+<GameTitle>Assassin's Creed Chronicles: China</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>35062</id>
+<GameTitle>Assassin's Creed Chronicles: Russia</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>7070</id>
+<GameTitle>Assassin's Creed: Bloodlines</GameTitle>
+<ReleaseDate>11/17/2009</ReleaseDate>
+<Platform>Sony Playstation Portable</Platform>
+</Game>
+<Game>
+<id>11909</id>
+<GameTitle>Assassin's Creed: Revelations</GameTitle>
+<ReleaseDate>11/15/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>11954</id>
+<GameTitle>Assassin's Creed III</GameTitle>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>27437</id>
+<GameTitle>Assassin's Creed Chronicles: China</GameTitle>
+<ReleaseDate>04/22/2015</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35056</id>
+<GameTitle>Assassin's Creed Chronicles: China</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>1802</id>
+<GameTitle>Assassin's Creed: Brotherhood</GameTitle>
+<ReleaseDate>11/16/2010</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>8170</id>
+<GameTitle>Assassin's Creed: Brotherhood</GameTitle>
+<ReleaseDate>11/16/2010</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>21411</id>
+<GameTitle>Assassin's Creed: Unity</GameTitle>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>25963</id>
+<GameTitle>Assassin's Creed Rogue</GameTitle>
+<ReleaseDate>03/10/2015</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>30645</id>
+<GameTitle>Assassin's Creed: Syndicate</GameTitle>
+<ReleaseDate>10/23/2015</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>30967</id>
+<GameTitle>Assassin's Creed: Heritage Collection</GameTitle>
+<ReleaseDate>11/08/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>19923</id>
+<GameTitle>Assassin's Creed: Freedom Cry</GameTitle>
+<ReleaseDate>02/18/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>33488</id>
+<GameTitle>Assassin's Creed I&amp;II</GameTitle>
+<ReleaseDate>04/04/2011</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35059</id>
+<GameTitle>Assassin's Creed Chronicles: India</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>35061</id>
+<GameTitle>Assassin's Creed Chronicles: Russia</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>35287</id>
+<GameTitle>Assassin's Creed Chronicles</GameTitle>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Platform>Sony Playstation Vita</Platform>
+</Game>
+<Game>
+<id>318</id>
+<GameTitle>Assassin's Creed II</GameTitle>
+<ReleaseDate>11/17/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>12393</id>
+<GameTitle>Assassin's Creed Ezio Trilogy</GameTitle>
+<ReleaseDate>11/13/2012</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>18978</id>
+<GameTitle>Assassin's Creed Anthology</GameTitle>
+<ReleaseDate>11/30/2012</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>23600</id>
+<GameTitle>Assassin's  Creed Double Pack</GameTitle>
+<ReleaseDate>03/30/2012</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>35286</id>
+<GameTitle>Assassin's Creed Chronicles</GameTitle>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35058</id>
+<GameTitle>Assassin's Creed Chronicles: India</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>35060</id>
+<GameTitle>Assassin's Creed Chronicles: Russia</GameTitle>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>3595</id>
+<GameTitle>Assassin's Creed: Revelations</GameTitle>
+<ReleaseDate>11/15/2011</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>12392</id>
+<GameTitle>Assassin's Creed III: Liberation</GameTitle>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Platform>Sony Playstation Vita</Platform>
+</Game>
+<Game>
+<id>11205</id>
+<GameTitle>Assassin's Creed 2: Discovery</GameTitle>
+<ReleaseDate>11/17/2009</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>11692</id>
+<GameTitle>Assassin's Creed III</GameTitle>
+<ReleaseDate>10/30/2012</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>19850</id>
+<GameTitle>Assassin's Creed: Unity</GameTitle>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>21273</id>
+<GameTitle>Assassin's Creed: Freedom Cry</GameTitle>
+<ReleaseDate>12/17/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>22485</id>
+<GameTitle>Assassin's Creed Rogue</GameTitle>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>31239</id>
+<GameTitle>Assassin's Creed: Syndicate</GameTitle>
+<ReleaseDate>10/23/2015</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>32131</id>
+<GameTitle>Assassin's Creed Syndicate</GameTitle>
+<ReleaseDate>10/23/2015</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>35057</id>
+<GameTitle>Assassin's Creed Chronicles: India</GameTitle>
+<ReleaseDate>01/12/2016</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35285</id>
+<GameTitle>Assassin's Creed Chronicles</GameTitle>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>35160</id>
+<GameTitle>Assassin's Creed Chronicles</GameTitle>
+<ReleaseDate>02/09/2016</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>2762</id>
+<GameTitle>Assassin's Creed II</GameTitle>
+<ReleaseDate>11/17/2009</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>8169</id>
+<GameTitle>Assassin's Creed: Brotherhood</GameTitle>
+<ReleaseDate>11/16/2010</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>8171</id>
+<GameTitle>Assassin's Creed: Brotherhood</GameTitle>
+<ReleaseDate>03/22/2011</ReleaseDate>
+<Platform>Mac OS</Platform>
+</Game>
+<Game>
+<id>9302</id>
+<GameTitle>Assassin's Creed III</GameTitle>
+<ReleaseDate>11/20/2012</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>8854</id>
+<GameTitle>Assassin's Creed: Revelations</GameTitle>
+<ReleaseDate>11/15/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>11742</id>
+<GameTitle>Assassin's Creed III</GameTitle>
+<ReleaseDate>11/13/2012</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>11913</id>
+<GameTitle>Assassin's Creed II</GameTitle>
+<ReleaseDate>11/17/2009</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>11204</id>
+<GameTitle>Assassin's Creed: Altair's Chronicles</GameTitle>
+<ReleaseDate>02/05/2008</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>21412</id>
+<GameTitle>Assassin's Creed: Unity</GameTitle>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>22472</id>
+<GameTitle>Assassin's Creed Rogue</GameTitle>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>31726</id>
+<GameTitle>Assassin's Creed Pirates</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Android</Platform>
+</Game>
+<Game>
+<id>48276</id>
+<GameTitle>Assassin's Creed: Freedom Cry</GameTitle>
+<ReleaseDate>02/18/2014</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>50581</id>
+<GameTitle>Assassin's Creed Ezio Trilogy</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>41425</id>
+<GameTitle>Assassin's Creed: The Americas Collection</GameTitle>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>16252</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>11/19/2013</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>19030</id>
+<GameTitle>Assassin's Creed III: Liberation HD</GameTitle>
+<ReleaseDate>01/15/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>22653</id>
+<GameTitle>Assassin's Creed III: Liberation HD</GameTitle>
+<ReleaseDate>01/15/2014</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>33170</id>
+<GameTitle>Assassin's Creed: The Americas Collection</GameTitle>
+<ReleaseDate>10/28/2014</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>47698</id>
+<GameTitle>Assassin's Creed The Ezio Collection</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>18149</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>10/29/2013</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>18151</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>11/19/2013</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>18148</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>10/29/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>18150</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>11/12/2013</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>17924</id>
+<GameTitle>Assassin's Creed IV: Black Flag</GameTitle>
+<ReleaseDate>10/29/2013</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>42211</id>
+<GameTitle>Assassin's Creed: The Ezio Collection</GameTitle>
+<ReleaseDate>11/15/2016</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>21272</id>
+<GameTitle>Assassin's Creed III: Liberation HD</GameTitle>
+<ReleaseDate>01/14/2014</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>41438</id>
+<GameTitle>Assassin's Creed: Black Flag - GameStop Edition</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>32199</id>
+<GameTitle>Assassin's Creed Brotherhood and Revelations - Double Pack</GameTitle>
+<ReleaseDate>01/18/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>21549</id>
+<GameTitle>Assassin's Creed III: The Tyranny of King Washington</GameTitle>
+<ReleaseDate>02/19/2013</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+</Data>

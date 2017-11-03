@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>113</id>
+<GameTitle>The Legend of Zelda</GameTitle>
+<PlatformId>7</PlatformId>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+<ReleaseDate>07/01/1987</ReleaseDate>
+<Overview>Welcome to the Legend of Zelda.  Where the only sound you’ll hear is your own heart pounding as you race through forests, lakes, mountains and dungeonous mazes in an attempt to restore peace to the land of Hyrule.  Along the way you’ll be challenged by Tektites, Wizzrobes and an endless array of ruthless creatures who’ll stop at nothing to prevent you from finding the lost fragments of the Triforce of Wisdom.  But don’t despair.  With a little luck and a lot of courage, you’ll conquer your adversaries, unite the Triforce fragments and unravel the mystery of the Legend of Zelda!
+
+* Explore the vast Overworld terrain of the land of Hyrule and discover hidden treasures.
+* Explore the mystical labyrinths of the Underworld and ward-off ruthless enemies.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=c4bvZZa5Mtg</Youtube>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Actors>N/A</Actors>
+<Rating>7.7143</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>40126</id><PlatformId>4950</PlatformId></Game><Game><id>14574</id><PlatformId>9</PlatformId></Game><Game><id>48758</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-1.jpg</original>
+<thumb>fanart/thumb/113-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-10.jpg</original>
+<thumb>fanart/thumb/113-10.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-11.jpg</original>
+<thumb>fanart/thumb/113-11.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-12.jpg</original>
+<thumb>fanart/thumb/113-12.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-13.jpg</original>
+<thumb>fanart/thumb/113-13.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-2.jpg</original>
+<thumb>fanart/thumb/113-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-3.jpg</original>
+<thumb>fanart/thumb/113-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-4.jpg</original>
+<thumb>fanart/thumb/113-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-5.jpg</original>
+<thumb>fanart/thumb/113-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-6.jpg</original>
+<thumb>fanart/thumb/113-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-7.jpg</original>
+<thumb>fanart/thumb/113-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-8.jpg</original>
+<thumb>fanart/thumb/113-8.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-9.jpg</original>
+<thumb>fanart/thumb/113-9.jpg</thumb>
+</fanart>
+<boxart side="back" width="1546" height="2100" thumb="boxart/thumb/original/back/113-1.png">boxart/original/back/113-1.png</boxart>
+<boxart side="front" width="1547" height="2100" thumb="boxart/thumb/original/front/113-1.png">boxart/original/front/113-1.png</boxart>
+<banner width="760" height="140">graphical/113-g.png</banner><screenshot>
+<original width="235" height="214">screenshots/113-1.jpg</original>
+<thumb>screenshots/thumb/113-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="246" height="205">screenshots/113-2.jpg</original>
+<thumb>screenshots/thumb/113-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="120">screenshots/113-3.jpg</original>
+<thumb>screenshots/thumb/113-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="107">screenshots/113-4.jpg</original>
+<thumb>screenshots/thumb/113-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="120">screenshots/113-5.jpg</original>
+<thumb>screenshots/thumb/113-5.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="300">clearlogo/113.png</clearlogo></Images>
+</Game>
+</Data>

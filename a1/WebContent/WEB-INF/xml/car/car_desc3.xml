@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>48151</id>
+<GameTitle>Racing Car</GameTitle>
+<PlatformId>22</PlatformId>
+<Platform>Atari 2600</Platform>
+<Images>
+<boxart side="front" width="400" height="483" thumb="boxart/thumb/original/front/48151-1.jpg">boxart/original/front/48151-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

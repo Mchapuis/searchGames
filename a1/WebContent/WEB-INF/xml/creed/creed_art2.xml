@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-1.jpg</original>
+<thumb>fanart/thumb/5927-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-2.jpg</original>
+<thumb>fanart/thumb/5927-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-3.jpg</original>
+<thumb>fanart/thumb/5927-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-4.jpg</original>
+<thumb>fanart/thumb/5927-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-5.jpg</original>
+<thumb>fanart/thumb/5927-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/5927-6.jpg</original>
+<thumb>fanart/thumb/5927-6.jpg</thumb>
+</fanart>
+<boxart side="back" width="1518" height="1758" thumb="boxart/thumb/original/back/5927-1.jpg">boxart/original/back/5927-1.jpg</boxart>
+<boxart side="front" width="1530" height="1758" thumb="boxart/thumb/original/front/5927-1.jpg">boxart/original/front/5927-1.jpg</boxart>
+<banner width="760" height="140">graphical/5927-g.jpg</banner><screenshot>
+<original width="1280" height="720">screenshots/5927-1.jpg</original>
+<thumb>screenshots/thumb/5927-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="196">clearlogo/5927.png</clearlogo></Images>
+</Data>

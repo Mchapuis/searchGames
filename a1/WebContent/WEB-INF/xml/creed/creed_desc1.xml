@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>7139</id>
+<GameTitle>Assassin's Creed</GameTitle>
+<PlatformId>15</PlatformId>
+<Platform>Microsoft Xbox 360</Platform>
+<ReleaseDate>11/13/2007</ReleaseDate>
+<Overview>Assassin's Creed is the next-gen game developed by Ubisoft Montreal that will redefine the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin's Creed merges technology, game design, theme, and emotions into a world where you instigate chaos and become a vulnerable, yet powerful, agent of change.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Stealth</genre></Genres><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=cc-ClutaN_I</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft</Developer>
+<Rating>7.8333</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>12</id><PlatformId>1</PlatformId></Game><Game><id>5927</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/7139-1.jpg</original>
+<thumb>fanart/thumb/7139-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/7139-2.jpg</original>
+<thumb>fanart/thumb/7139-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/7139-3.jpg</original>
+<thumb>fanart/thumb/7139-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="1532" height="2156" thumb="boxart/thumb/original/back/7139-1.jpg">boxart/original/back/7139-1.jpg</boxart>
+<boxart side="front" width="1529" height="2156" thumb="boxart/thumb/original/front/7139-1.jpg">boxart/original/front/7139-1.jpg</boxart>
+<banner width="760" height="140">graphical/7139-g.jpg</banner><clearlogo width="400" height="196">clearlogo/7139.png</clearlogo></Images>
+</Game>
+</Data>

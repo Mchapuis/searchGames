@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/344-1.jpg</original>
+<thumb>fanart/thumb/344-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/344-2.jpg</original>
+<thumb>fanart/thumb/344-2.jpg</thumb>
+</fanart>
+<boxart side="back" width="1532" height="2100" thumb="boxart/thumb/original/back/344-2.jpg">boxart/original/back/344-2.jpg</boxart>
+<boxart side="front" width="1534" height="2100" thumb="boxart/thumb/original/front/344-2.jpg">boxart/original/front/344-2.jpg</boxart>
+<banner width="760" height="140">graphical/344-g.jpg</banner><banner width="760" height="140">graphical/344-g2.jpg</banner><screenshot>
+<original width="1920" height="1080">screenshots/344-1.jpg</original>
+<thumb>screenshots/thumb/344-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="60">clearlogo/344.png</clearlogo></Images>
+</Data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<boxart side="front" width="387" height="502" thumb="boxart/thumb/original/front/35375-1.jpg">boxart/original/front/35375-1.jpg</boxart>
+<screenshot>
+<original width="1440" height="1080">screenshots/35375-1.jpg</original>
+<thumb>screenshots/thumb/35375-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1440" height="1080">screenshots/35375-2.jpg</original>
+<thumb>screenshots/thumb/35375-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="294">clearlogo/35375.png</clearlogo></Images>
+</Data>

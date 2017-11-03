@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-1.jpg</original>
+<thumb>fanart/thumb/113-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-10.jpg</original>
+<thumb>fanart/thumb/113-10.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-11.jpg</original>
+<thumb>fanart/thumb/113-11.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-12.jpg</original>
+<thumb>fanart/thumb/113-12.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-13.jpg</original>
+<thumb>fanart/thumb/113-13.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-2.jpg</original>
+<thumb>fanart/thumb/113-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-3.jpg</original>
+<thumb>fanart/thumb/113-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-4.jpg</original>
+<thumb>fanart/thumb/113-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-5.jpg</original>
+<thumb>fanart/thumb/113-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-6.jpg</original>
+<thumb>fanart/thumb/113-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-7.jpg</original>
+<thumb>fanart/thumb/113-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/113-8.jpg</original>
+<thumb>fanart/thumb/113-8.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1280" height="720">fanart/original/113-9.jpg</original>
+<thumb>fanart/thumb/113-9.jpg</thumb>
+</fanart>
+<boxart side="back" width="1546" height="2100" thumb="boxart/thumb/original/back/113-1.png">boxart/original/back/113-1.png</boxart>
+<boxart side="front" width="1547" height="2100" thumb="boxart/thumb/original/front/113-1.png">boxart/original/front/113-1.png</boxart>
+<banner width="760" height="140">graphical/113-g.png</banner><screenshot>
+<original width="235" height="214">screenshots/113-1.jpg</original>
+<thumb>screenshots/thumb/113-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="246" height="205">screenshots/113-2.jpg</original>
+<thumb>screenshots/thumb/113-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="120">screenshots/113-3.jpg</original>
+<thumb>screenshots/thumb/113-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="107">screenshots/113-4.jpg</original>
+<thumb>screenshots/thumb/113-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="160" height="120">screenshots/113-5.jpg</original>
+<thumb>screenshots/thumb/113-5.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="300">clearlogo/113.png</clearlogo></Images>
+</Data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Images>
+<boxart side="back" width="1527" height="2100" thumb="boxart/thumb/original/back/4593-1.jpg">boxart/original/back/4593-1.jpg</boxart>
+<boxart side="front" width="1533" height="2100" thumb="boxart/thumb/original/front/4593-1.jpg">boxart/original/front/4593-1.jpg</boxart>
+<clearlogo width="400" height="97">clearlogo/4593.png</clearlogo></Images>
+</Data>

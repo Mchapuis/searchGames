@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>36158</id>
+<GameTitle>Diablo</GameTitle>
+<PlatformId>4</PlatformId>
+<Platform>Nintendo Game Boy</Platform>
+<ReleaseDate>05/04/2008</ReleaseDate>
+<Overview>A port of Diablo was in development for the GameBoy, but soon cancelled for unknown reasons. This unreleased gem was first shown on PtoPOnline (now SuperiorVersion.com) back in 2007. Prior to that, no media had ever been released, nor had it ever been mentioned by Blizzard. This tech demo is a very unique look at what Diablo could have been, on the original GameBoy.
+
+You can really see this game having massive potential since the PC version wasn’t much better graphically, meaning it would be close to the original. Implementing special features such as link cable multiplayer (since online would not be available) could have made this one of the higher rated games in GameBoy history.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>MMO</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Blizzard</Publisher>
+<Developer>Blizzard</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>758</id><PlatformId>1</PlatformId></Game><Game><id>11577</id><PlatformId>10</PlatformId></Game></Similar><Images>
+<boxart side="front" width="513" height="458" thumb="boxart/thumb/original/front/36158-1.png">boxart/original/front/36158-1.png</boxart>
+</Images>
+</Game>
+</Data>

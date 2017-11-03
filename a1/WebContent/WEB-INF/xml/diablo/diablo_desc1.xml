@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11577</id>
+<GameTitle>Diablo</GameTitle>
+<PlatformId>10</PlatformId>
+<Platform>Sony Playstation</Platform>
+<ReleaseDate>03/31/1998</ReleaseDate>
+<Overview>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>Blizzard</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>36158</id><PlatformId>4</PlatformId></Game><Game><id>758</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/11577-1.jpg</original>
+<thumb>fanart/thumb/11577-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1000" height="779" thumb="boxart/thumb/original/back/11577-1.jpg">boxart/original/back/11577-1.jpg</boxart>
+<boxart side="front" width="995" height="991" thumb="boxart/thumb/original/front/11577-1.jpg">boxart/original/front/11577-1.jpg</boxart>
+<screenshot>
+<original width="640" height="480">screenshots/11577-1.jpg</original>
+<thumb>screenshots/thumb/11577-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

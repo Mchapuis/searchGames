@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3178</id>
+<GameTitle>Dr. Mario</GameTitle>
+<PlatformId>4</PlatformId>
+<Platform>Nintendo Game Boy</Platform>
+<ReleaseDate>12/31/1990</ReleaseDate>
+<Overview>It's Dr. Mario for an intense new challenge! Mario throws multi-shaded vitamin capsules into a bottle that contains an ugly variety of nasty viruses. You can move, shift or spin the capsules as they fall. Arrange them to align with other capsules on top of a virus. If you can get 4 or more of the same shade in a row, POOF! They disappear! Destroy all of the viruses in the bottle and you progress to the next round where things get even more difficult. Dr. Mario, with germs that are fun to catch.</Overview>
+<Genres><genre>Puzzle</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>31870</id><PlatformId>23</PlatformId></Game><Game><id>344</id><PlatformId>7</PlatformId></Game><Game><id>48618</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/3178-1.jpg</original>
+<thumb>fanart/thumb/3178-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="1530" height="1370" thumb="boxart/thumb/original/back/3178-1.jpg">boxart/original/back/3178-1.jpg</boxart>
+<boxart side="front" width="600" height="606" thumb="boxart/thumb/original/front/3178-1.png">boxart/original/front/3178-1.png</boxart>
+<banner width="760" height="140">graphical/3178-g.jpg</banner><clearlogo width="400" height="60">clearlogo/3178.png</clearlogo></Images>
+</Game>
+</Data>

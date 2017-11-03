@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>47987</id>
+<GameTitle>Tokyo Xanadu</GameTitle>
+<PlatformId>39</PlatformId>
+<Platform>Sony Playstation Vita</Platform>
+<ReleaseDate>09/30/2015</ReleaseDate>
+<Overview>Tokyo Xanadu (東亰ザナドゥ Tokyo Zanadu) is an action role-playing video game for the PlayStation Vita. It was developed and published by Nihon Falcom, out of their desire to create a game of a different type and setting than their two other flagship video game series, The Legend of Heroes and Ys, and has roots in the Xanadu series. The game was released on September 30, 2015 in Japan and on June 30, 2017 in North America.</Overview>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Aksys Games</Publisher>
+<Developer>Nihon Falcom</Developer>
+<Images>
+<boxart side="front" width="1158" height="1477" thumb="boxart/thumb/original/front/47987-1.jpg">boxart/original/front/47987-1.jpg</boxart>
+<screenshot>
+<original width="600" height="340">screenshots/47987-1.jpg</original>
+<thumb>screenshots/thumb/47987-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

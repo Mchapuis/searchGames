@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38234</id>
+<GameTitle>Sky Skipper</GameTitle>
+<PlatformId>22</PlatformId>
+<Platform>Atari 2600</Platform>
+<ReleaseDate>11/01/1983</ReleaseDate>
+<Overview>It's a high-flying action adventure!  You're the pilot chosen for this most unusual mission:  to rescue the animals held captive by the dangerous gorillas.  But it won't be easy.  You'll have to pilot your plane through all kinds of flying hazards.  To make matters worse, you only have a limited amount of fuel to accomplish your mission.  Can you save the animals in time?</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Parker Brothers</Publisher>
+<Developer>Parker Brothers</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>40772</id><PlatformId>23</PlatformId></Game></Similar><Images>
+<boxart side="front" width="300" height="400" thumb="boxart/thumb/original/front/38234-1.jpg">boxart/original/front/38234-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

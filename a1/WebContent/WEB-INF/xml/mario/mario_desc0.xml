@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>344</id>
+<GameTitle>Dr. Mario</GameTitle>
+<PlatformId>7</PlatformId>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+<ReleaseDate>07/27/1990</ReleaseDate>
+<Overview>A puzzle game similar to Tetris, Dr. Mario features Nintendo mascot Mario as a doctor. Gameplay consists of dropping two-sided vitamin capsules into a playing field 8 blocks wide by 16 blocks high resembling a medicine bottle, populated by viruses of three colors</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Puzzle</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=3ziH6tVJwEU</Youtube>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Actors>N/A</Actors>
+<Rating>6.5</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>31870</id><PlatformId>23</PlatformId></Game><Game><id>3178</id><PlatformId>4</PlatformId></Game><Game><id>48618</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/344-1.jpg</original>
+<thumb>fanart/thumb/344-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/344-2.jpg</original>
+<thumb>fanart/thumb/344-2.jpg</thumb>
+</fanart>
+<boxart side="back" width="1532" height="2100" thumb="boxart/thumb/original/back/344-2.jpg">boxart/original/back/344-2.jpg</boxart>
+<boxart side="front" width="1534" height="2100" thumb="boxart/thumb/original/front/344-2.jpg">boxart/original/front/344-2.jpg</boxart>
+<banner width="760" height="140">graphical/344-g.jpg</banner><banner width="760" height="140">graphical/344-g2.jpg</banner><screenshot>
+<original width="1920" height="1080">screenshots/344-1.jpg</original>
+<thumb>screenshots/thumb/344-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="60">clearlogo/344.png</clearlogo></Images>
+</Game>
+</Data>

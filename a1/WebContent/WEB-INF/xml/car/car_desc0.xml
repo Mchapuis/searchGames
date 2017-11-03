@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>43507</id>
+<GameTitle>Car Jamboree</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<Overview>A driving demolition game.</Overview>
+<Genres><genre>Racing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Omori Electric</Publisher>
+<Developer>Omori Electric</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>47981</id><PlatformId>4929</PlatformId></Game></Similar><Images>
+<boxart side="front" width="500" height="706" thumb="boxart/thumb/original/front/43507-1.png">boxart/original/front/43507-1.png</boxart>
+</Images>
+</Game>
+</Data>

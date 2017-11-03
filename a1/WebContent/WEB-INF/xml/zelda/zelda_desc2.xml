@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40126</id>
+<GameTitle>The Legend of Zelda</GameTitle>
+<PlatformId>4950</PlatformId>
+<Platform>Game &amp;amp; Watch</Platform>
+<Similar><SimilarCount>3</SimilarCount><Game><id>113</id><PlatformId>7</PlatformId></Game><Game><id>14574</id><PlatformId>9</PlatformId></Game><Game><id>48758</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<boxart side="back" width="1280" height="720" thumb="boxart/thumb/original/back/40126-1.jpg">boxart/original/back/40126-1.jpg</boxart>
+<boxart side="front" width="313" height="211" thumb="boxart/thumb/original/front/40126-1.png">boxart/original/front/40126-1.png</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14574</id>
+<GameTitle>The Legend of Zelda</GameTitle>
+<PlatformId>9</PlatformId>
+<Platform>Nintendo Wii</Platform>
+<ReleaseDate>11/19/2006</ReleaseDate>
+<Overview>Ganon, the King of Evil, breaks free from the Dark World and captures Hyrule's beloved Princess Zelda. Before she is caught, Zelda manages to shatter the Triforce of Wisdom and scatter its eight pieces throughout Hyrule. Link swears to recover the Triforce pieces and rescue Princess Zelda from Ganon's clutches.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Rating>6.2</Rating><Similar><SimilarCount>3</SimilarCount><Game><id>40126</id><PlatformId>4950</PlatformId></Game><Game><id>113</id><PlatformId>7</PlatformId></Game><Game><id>48758</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<boxart side="front" width="769" height="1086" thumb="boxart/thumb/original/front/14574-1.png">boxart/original/front/14574-1.png</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>758</id>
+<GameTitle>Diablo</GameTitle>
+<ReleaseDate>01/02/1997</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>11577</id>
+<GameTitle>Diablo</GameTitle>
+<ReleaseDate>03/31/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>36158</id>
+<GameTitle>Diablo</GameTitle>
+<ReleaseDate>05/04/2008</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>30269</id>
+<GameTitle>Diablo III</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>912</id>
+<GameTitle>Diablo III</GameTitle>
+<ReleaseDate>05/15/2012</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>17651</id>
+<GameTitle>Diablo III</GameTitle>
+<ReleaseDate>09/03/2013</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>759</id>
+<GameTitle>Diablo II</GameTitle>
+<ReleaseDate>06/29/2000</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>33779</id>
+<GameTitle>Diablo Hellfire</GameTitle>
+<ReleaseDate>11/30/1997</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>11958</id>
+<GameTitle>Diablo III</GameTitle>
+<ReleaseDate>05/15/2012</ReleaseDate>
+<Platform>Mac OS</Platform>
+</Game>
+<Game>
+<id>17684</id>
+<GameTitle>Diablo III</GameTitle>
+<ReleaseDate>09/03/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>14276</id>
+<GameTitle>Diablo II: Lord of Destruction</GameTitle>
+<ReleaseDate>06/29/2001</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35600</id>
+<GameTitle>Diablo: Battle Chest</GameTitle>
+<ReleaseDate>09/26/2001</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>19038</id>
+<GameTitle>Diablo III: Reaper of Souls</GameTitle>
+<ReleaseDate>03/25/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>20599</id>
+<GameTitle>Diablo III Reaper of Souls: Ultimate Evil Edition</GameTitle>
+<ReleaseDate>08/19/2014</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>20600</id>
+<GameTitle>Diablo III Reaper of Souls: Ultimate Evil Edition</GameTitle>
+<ReleaseDate>08/19/2014</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>20598</id>
+<GameTitle>Diablo III Reaper of Souls: Ultimate Evil Edition</GameTitle>
+<ReleaseDate>08/19/2014</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>20601</id>
+<GameTitle>Diablo III Reaper of Souls: Ultimate Evil Edition</GameTitle>
+<ReleaseDate>08/19/2014</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+</Data>

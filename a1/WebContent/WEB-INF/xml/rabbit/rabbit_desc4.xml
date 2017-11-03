@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>39028</id>
+<GameTitle>Jack Rabbit</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<Overview>Jack Rabbit is played through three different stages.
+
+The first stage is outside Jack's house. Here, the object is to collect all the carrots while avoiding pits, bombs, and the weasels.
+
+The second stage is a scrolling stage in the desert. You must now avoid snakes and cacti in addition to pits and weasels. Along the way, you can grab apples for bonus points. You clear the second stage by reaching the carrot at the end of the course. You do not need to collect them all.
+
+Stage three is in the tropics, and you will need to leap from level to level while avoiding weasels and coconuts. You can take advantage of wraparound points in this stage, but the weasel can use tunnels you cannot. You clear this stage by collecting all the carrots. After stage three, the game returns to stage one with more carrots.
+
+Jack can leap two squares at a time by simply holding Jump while moving. This also allows Jack to climb to higher levels. He loses a life if he runs into weasels, bombs, snakes, cacti, or pits. Clearing a stage nets a 10,000-point bonus.</Overview>
+<Co-op>No</Co-op>
+<Developer>Zaccaria</Developer>
+<Images>
+<boxart side="front" width="850" height="1204" thumb="boxart/thumb/original/front/39028-1.jpg">boxart/original/front/39028-1.jpg</boxart>
+<screenshot>
+<original width="224" height="256">screenshots/39028-1.jpg</original>
+<thumb>screenshots/thumb/39028-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

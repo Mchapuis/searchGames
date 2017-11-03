@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40461</id>
+<GameTitle>Myst</GameTitle>
+<PlatformId>8</PlatformId>
+<Platform>Nintendo DS</Platform>
+<ReleaseDate>11/30/2007</ReleaseDate>
+<Overview>Myst sur DS est un jeu d'aventure à la première personne dans lequel le joueur se retrouve plongé dans un monde qu'il ne connaît pas. En voyageant dans plusieurs environnements, il faudra découvrir peu à peu comment fonctionne ce monde et surtout pourquoi deux frères se sont vus enfermés dans des livres prisons. L'étrange monde de Myst n'attend que vous.</Overview>
+<Co-op>No</Co-op>
+<Publisher>Midway</Publisher>
+<Developer>Hoplite Research</Developer>
+<Rating>6</Rating><Similar><SimilarCount>8</SimilarCount><Game><id>4849</id><PlatformId>25</PlatformId></Game><Game><id>5263</id><PlatformId>29</PlatformId></Game><Game><id>12798</id><PlatformId>4912</PlatformId></Game><Game><id>6700</id><PlatformId>1</PlatformId></Game><Game><id>14905</id><PlatformId>4917</PlatformId></Game><Game><id>11303</id><PlatformId>17</PlatformId></Game><Game><id>18707</id><PlatformId>10</PlatformId></Game><Game><id>30542</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="650" height="578" thumb="boxart/thumb/original/front/40461-1.jpg">boxart/original/front/40461-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

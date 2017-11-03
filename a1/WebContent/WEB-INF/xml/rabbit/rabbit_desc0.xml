@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>41861</id>
+<GameTitle>Rabbit</GameTitle>
+<AlternateTitles><title>羅媚斗</title></AlternateTitles><PlatformId>17</PlatformId>
+<Platform>Sega Saturn</Platform>
+<ReleaseDate>06/27/1997</ReleaseDate>
+<Overview>The evil being Zao-Long is on a quest to become the world's strongest and possess the power of the Zodiac to rule the world. Eight fighters from around the world will fight to stop his sinister plan and prove the strength of their Zodiac spirit.</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Electronic Arts</Publisher>
+<Developer>Aorn</Developer>
+<Similar><SimilarCount>1</SimilarCount><Game><id>41860</id><PlatformId>23</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1400" height="1400" thumb="boxart/thumb/original/front/41861-1.jpg">boxart/original/front/41861-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

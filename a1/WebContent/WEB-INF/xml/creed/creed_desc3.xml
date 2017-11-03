@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35055</id>
+<GameTitle>Assassin's Creed Chronicles: China</GameTitle>
+<PlatformId>4919</PlatformId>
+<Platform>Sony Playstation 4</Platform>
+<Co-op>No</Co-op>
+<Developer>Climax Group</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>35056</id><PlatformId>4920</PlatformId></Game><Game><id>27437</id><PlatformId>1</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1152" height="1668" thumb="boxart/thumb/original/front/35055-1.jpg">boxart/original/front/35055-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

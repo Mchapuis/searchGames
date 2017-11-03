@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>21228</id>
+<GameTitle>Tokyo Crash Mobs</GameTitle>
+<PlatformId>4912</PlatformId>
+<Platform>Nintendo 3DS</Platform>
+<Images>
+<boxart side="front" width="600" height="338" thumb="boxart/thumb/original/front/21228-1.png">boxart/original/front/21228-1.png</boxart>
+</Images>
+</Game>
+</Data>

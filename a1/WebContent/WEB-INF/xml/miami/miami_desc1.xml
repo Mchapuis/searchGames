@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38016</id>
+<GameTitle>Miami Vice</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Players>1</Players><Co-op>No</Co-op>
+<Developer>Davilex</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>19024</id><PlatformId>40</PlatformId></Game><Game><id>30540</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<boxart side="front" width="570" height="804" thumb="boxart/thumb/original/front/38016-1.jpg">boxart/original/front/38016-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

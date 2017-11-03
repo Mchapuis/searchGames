@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>18625</id>
+<GameTitle>Fish Dude</GameTitle>
+<PlatformId>4</PlatformId>
+<Platform>Nintendo Game Boy</Platform>
+<ReleaseDate>12/31/1991</ReleaseDate>
+<Overview>Players essentially get to control Fish Dude as he eats as many tiny fish in the ocean to get bigger and stronger. Once he is strong enough, players can successfully defend themselves against larger fish, seagulls that want to grab unsuspecting players out of the water and cats that want to eat players as a tasty snack. A variety of allies (includuing Octo Dude who is an octopus) can help Fish Dude when the problems grow too intense for him to handle alone.
+
+With only three lives to lose until achieving a "game over" screen, the game requires cunning and dexterity to master. Levels allow players to scroll of the screen at the extreme ends of the field and come back on the other side of the playing field. There are 18 levels that get more difficult as the other fish get faster and more predators are introduced in an attempt to kill off the players. Each level concludes after 20 fish have been consumed.
+
+Passwords are introduced from the third level onwards</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>SOFEL</Publisher>
+<Developer>ANex</Developer>
+<Images>
+<boxart side="front" width="220" height="219" thumb="boxart/thumb/original/front/18625-1.jpg">boxart/original/front/18625-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>912</id>
+<GameTitle>Diablo III</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>05/15/2012</ReleaseDate>
+<Overview>The game takes place in Sanctuary, the dark fantasy world of the Diablo series. This world was saved twenty years prior by a handful of unnamed heroes in Diablo II, having survived the onslaught brought by the armies of the Burning Hells, who have gone mad from their ordeals. It is up to a new generation of heroes to face the forces of evil threatening the world of Sanctuary.
+
+Players will have the opportunity to explore familiar settings such as Tristram.
+
+The only confirmed NPCs are Deckard Cain, who has appeared in both of the previous games, and his niece, Leah, a new character who accompanies the hero in quests from time to time. The plot will revolve around two surviving Lesser Evils, Azmodan and Belial, and an artifact known as the Black Soulstone. Diablo's world map is composed primarily of two main continents with several small islands in the Northwest region. The world of Sanctuary has been dramatically changed by the destruction of the World Stone in Diablo II: Lord of Destruction.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Role-Playing</genre></Genres><Players>4+</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=de2KlsLnIVU</Youtube>
+<Publisher>Activision Blizzard</Publisher>
+<Developer>Blizzard Entertainment</Developer>
+<Rating>5.8824</Rating><Similar><SimilarCount>4</SimilarCount><Game><id>11958</id><PlatformId>37</PlatformId></Game><Game><id>17651</id><PlatformId>15</PlatformId></Game><Game><id>30269</id><PlatformId>4920</PlatformId></Game><Game><id>17684</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-1.jpg</original>
+<thumb>fanart/thumb/912-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-10.jpg</original>
+<thumb>fanart/thumb/912-10.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-11.jpg</original>
+<thumb>fanart/thumb/912-11.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-12.jpg</original>
+<thumb>fanart/thumb/912-12.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-13.jpg</original>
+<thumb>fanart/thumb/912-13.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-14.jpg</original>
+<thumb>fanart/thumb/912-14.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-15.jpg</original>
+<thumb>fanart/thumb/912-15.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-16.jpg</original>
+<thumb>fanart/thumb/912-16.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-17.jpg</original>
+<thumb>fanart/thumb/912-17.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-18.jpg</original>
+<thumb>fanart/thumb/912-18.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-19.jpg</original>
+<thumb>fanart/thumb/912-19.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-2.jpg</original>
+<thumb>fanart/thumb/912-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-20.jpg</original>
+<thumb>fanart/thumb/912-20.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-21.jpg</original>
+<thumb>fanart/thumb/912-21.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-22.jpg</original>
+<thumb>fanart/thumb/912-22.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-3.jpg</original>
+<thumb>fanart/thumb/912-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-4.jpg</original>
+<thumb>fanart/thumb/912-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-5.jpg</original>
+<thumb>fanart/thumb/912-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-6.jpg</original>
+<thumb>fanart/thumb/912-6.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-7.jpg</original>
+<thumb>fanart/thumb/912-7.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-8.jpg</original>
+<thumb>fanart/thumb/912-8.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/912-9.jpg</original>
+<thumb>fanart/thumb/912-9.jpg</thumb>
+</fanart>
+<boxart side="back" width="475" height="682" thumb="boxart/thumb/original/back/912-1.jpg">boxart/original/back/912-1.jpg</boxart>
+<boxart side="front" width="600" height="841" thumb="boxart/thumb/original/front/912-2.jpg">boxart/original/front/912-2.jpg</boxart>
+<banner width="760" height="140">graphical/912-g.jpg</banner><clearlogo width="400" height="295">clearlogo/912.png</clearlogo></Images>
+</Game>
+</Data>

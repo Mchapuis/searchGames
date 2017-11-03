@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>141</id>
+<GameTitle>Paper Mario</GameTitle>
+<PlatformId>3</PlatformId>
+<Platform>Nintendo 64</Platform>
+<ReleaseDate>02/05/2001</ReleaseDate>
+<Overview>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Role-Playing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=WoGJd0k_FR8</Youtube>
+<Publisher>Nintendo</Publisher>
+<Developer>Intelligent Systems</Developer>
+<Rating>7.6667</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>21450</id><PlatformId>9</PlatformId></Game><Game><id>48986</id><PlatformId>38</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/141-1.jpg</original>
+<thumb>fanart/thumb/141-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/141-2.jpg</original>
+<thumb>fanart/thumb/141-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/141-3.jpg</original>
+<thumb>fanart/thumb/141-3.jpg</thumb>
+</fanart>
+<boxart side="back" width="2100" height="1532" thumb="boxart/thumb/original/back/141-1.jpg">boxart/original/back/141-1.jpg</boxart>
+<boxart side="front" width="2100" height="1532" thumb="boxart/thumb/original/front/141-1.jpg">boxart/original/front/141-1.jpg</boxart>
+<banner width="760" height="140">graphical/141-g.jpg</banner><banner width="760" height="140">graphical/141-g2.jpg</banner><screenshot>
+<original width="585" height="405">screenshots/141-1.jpg</original>
+<thumb>screenshots/thumb/141-1.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="165">clearlogo/141.png</clearlogo></Images>
+</Game>
+</Data>

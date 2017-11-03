@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30269</id>
+<GameTitle>Diablo III</GameTitle>
+<PlatformId>4920</PlatformId>
+<Platform>Microsoft Xbox One</Platform>
+<Overview>Diablo III is an action role-playing video game developed and published by Blizzard Entertainment. It is the third installment in the Diablo franchise and was released in the Americas, Europe, South Korea, and Taiwan on May 15, 2012, and Russia on June 7, 2012,[4] for Microsoft Windows and OS X. A console version was released for the PlayStation 3 and Xbox 360 on September 3, 2013.[3] Versions for PlayStation 4 and Xbox One were released on August 19, 2014.[5]
+
+In the game, players choose one of six character classes – Barbarian, Crusader, Demon Hunter, Monk, Witch Doctor or Wizard (with the Crusader being unavailable unless the player has purchased the expansion pack, Diablo III: Reaper of Souls) – and are tasked with defeating the Lord of Terror, Diablo.
+
+Diablo III set a new record for fastest-selling PC game selling over 3.5 million copies in the first 24 hours of its release,[6] and was the best selling PC game of 2012, selling over 12 million copies during the year.[7] It has sold 30 million copies across all platforms. Diablo III received acclaim from critics, although its digital rights management that requires an internet connection at all times was criticized.[8]
+
+The expansion pack Diablo III: Reaper of Souls was released for the Windows and OS X editions of the game on March 25, 2014. For consoles the expansion pack content was released as part of the Diablo III: Ultimate Evil Edition version. It was released for the PlayStation 4, Xbox One, PlayStation 3, and Xbox 360 on August 19, 2014. Diablo III: Ultimate Evil Edition includes the original console version of Diablo III and Diablo III: Reaper of Souls expansion pack.[9]</Overview>
+<Genres><genre>Role-Playing</genre></Genres><Co-op>No</Co-op>
+<Developer>Blizzard Entertainment</Developer>
+<Rating>10</Rating><Similar><SimilarCount>4</SimilarCount><Game><id>11958</id><PlatformId>37</PlatformId></Game><Game><id>17651</id><PlatformId>15</PlatformId></Game><Game><id>912</id><PlatformId>1</PlatformId></Game><Game><id>17684</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<boxart side="front" width="703" height="995" thumb="boxart/thumb/original/front/30269-1.jpg">boxart/original/front/30269-1.jpg</boxart>
+<clearlogo width="400" height="300">clearlogo/30269.png</clearlogo></Images>
+</Game>
+</Data>

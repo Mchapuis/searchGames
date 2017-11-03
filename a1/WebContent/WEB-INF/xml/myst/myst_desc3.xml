@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12798</id>
+<GameTitle>Myst</GameTitle>
+<PlatformId>4912</PlatformId>
+<Platform>Nintendo 3DS</Platform>
+<ReleaseDate>07/27/2012</ReleaseDate>
+<Overview>It's more than a game. It's a journey. And now the journey is enhanced in 3D for even greater immersion into the fantastic adventure of MYST. 
+
+You will embark on a wondrous voyage as The Stranger, and explore an island of intrigue as you uncover clues about your surroundings and the quest you must take. Now the most well-known adventure game in the world comes alive in the new 3D version of this classic story! With a multitude of puzzles, problems, and mazes to solve, and a brand new Age added to enhance the MYST experience, you'll find MYST 3DS even more entertaining than the original.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Adventure</genre></Genres><Co-op>No</Co-op>
+<Publisher>Maximum Family Games</Publisher>
+<Developer>Hoplite Games</Developer>
+<Similar><SimilarCount>8</SimilarCount><Game><id>4849</id><PlatformId>25</PlatformId></Game><Game><id>5263</id><PlatformId>29</PlatformId></Game><Game><id>40461</id><PlatformId>8</PlatformId></Game><Game><id>6700</id><PlatformId>1</PlatformId></Game><Game><id>14905</id><PlatformId>4917</PlatformId></Game><Game><id>11303</id><PlatformId>17</PlatformId></Game><Game><id>18707</id><PlatformId>10</PlatformId></Game><Game><id>30542</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12798-1.jpg</original>
+<thumb>fanart/thumb/12798-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="498" height="439" thumb="boxart/thumb/original/front/12798-1.jpg">boxart/original/front/12798-1.jpg</boxart>
+<clearlogo width="400" height="124">clearlogo/12798.png</clearlogo></Images>
+</Game>
+</Data>

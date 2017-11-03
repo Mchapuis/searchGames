@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>22916</id>
+<GameTitle>Red Baron</GameTitle>
+<PlatformId>4927</PlatformId>
+<Platform>Magnavox Odyssey 2</Platform>
+<ReleaseDate>05/01/1980</ReleaseDate>
+<Overview>Prototype</Overview>
+<Genres><genre>Flight Simulator</genre></Genres><Co-op>No</Co-op>
+<Developer>Philips</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>25350</id><PlatformId>1</PlatformId></Game><Game><id>49673</id><PlatformId>4913</PlatformId></Game></Similar><Images>
+<boxart side="front" width="400" height="545" thumb="boxart/thumb/original/front/22916-1.png">boxart/original/front/22916-1.png</boxart>
+</Images>
+</Game>
+</Data>

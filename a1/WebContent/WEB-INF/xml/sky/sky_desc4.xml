@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>28975</id>
+<GameTitle>Sky Rogue</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<Overview>Challenging dog fighting game with bright and clean arcade style graphics.
+http://nihilocrat.itch.io/sky-rogue</Overview>
+<Genres><genre>Action</genre><genre>Flight Simulator</genre><genre>Shooter</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=6GUz_L-s-vM</Youtube>
+<Developer>Nihilocrat</Developer>
+<Rating>8</Rating><Images>
+<boxart side="front" width="550" height="756" thumb="boxart/thumb/original/front/28975-1.png">boxart/original/front/28975-1.png</boxart>
+</Images>
+</Game>
+</Data>

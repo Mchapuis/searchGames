@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35062</id>
+<GameTitle>Assassin's Creed Chronicles: Russia</GameTitle>
+<PlatformId>4920</PlatformId>
+<Platform>Microsoft Xbox One</Platform>
+<Co-op>No</Co-op>
+<Developer>Climax Group</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>35060</id><PlatformId>1</PlatformId></Game><Game><id>35061</id><PlatformId>4919</PlatformId></Game></Similar><Images>
+<boxart side="front" width="3175" height="4464" thumb="boxart/thumb/original/front/35062-1.jpg">boxart/original/front/35062-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

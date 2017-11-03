@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>33228</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>06/08/1990</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35375</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>01/01/1986</ReleaseDate>
+<Platform>Sinclair ZX Spectrum</Platform>
+</Game>
+<Game>
+<id>34812</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>01/01/1986</ReleaseDate>
+<Platform>Amstrad CPC</Platform>
+</Game>
+<Game>
+<id>20378</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>01/01/1989</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>36491</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>01/01/1986</ReleaseDate>
+<Platform>MSX</Platform>
+</Game>
+<Game>
+<id>31662</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>05/12/1990</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>6238</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>07/19/1990</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>10686</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>05/01/1990</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>20243</id>
+<GameTitle>Batman</GameTitle>
+<ReleaseDate>10/12/1990</ReleaseDate>
+<Platform>TurboGrafx 16</Platform>
+</Game>
+<Game>
+<id>4157</id>
+<GameTitle>Batman Begins</GameTitle>
+<ReleaseDate>06/14/2005</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>5833</id>
+<GameTitle>Batman Begins</GameTitle>
+<ReleaseDate>06/14/2005</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>10715</id>
+<GameTitle>Batman Vengeance</GameTitle>
+<ReleaseDate>10/08/2002</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>37054</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>3146</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>08/07/1995</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>6239</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>18357</id>
+<GameTitle>Batman Begins</GameTitle>
+<ReleaseDate>06/15/2005</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>22238</id>
+<GameTitle>Batman: Vengeance</GameTitle>
+<ReleaseDate>10/30/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>22404</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>04/12/1991</ReleaseDate>
+<Platform>Atari Lynx</Platform>
+</Game>
+<Game>
+<id>26797</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>03/01/1996</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>34761</id>
+<GameTitle>Batman: Vengeance</GameTitle>
+<ReleaseDate>12/18/2001</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>35295</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>2765</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>01/01/1993</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>5980</id>
+<GameTitle>Batman Begins</GameTitle>
+<ReleaseDate>06/14/2005</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>5245</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>09/18/1992</ReleaseDate>
+<Platform>Sega Master System</Platform>
+</Game>
+<Game>
+<id>26629</id>
+<GameTitle>Batman (Prototype)</GameTitle>
+<ReleaseDate>01/01/1998</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>42309</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>2569</id>
+<GameTitle>Batman Vengeance</GameTitle>
+<ReleaseDate>11/18/2001</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>454</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>09/07/1995</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>4281</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>02/07/1992</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>4938</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>05/01/1993</ReleaseDate>
+<Platform>Sega CD</Platform>
+</Game>
+<Game>
+<id>11570</id>
+<GameTitle>Batman &amp; Robin</GameTitle>
+<ReleaseDate>07/31/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>18297</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>12/31/1995</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>32115</id>
+<GameTitle>Batman &amp; Robin</GameTitle>
+<ReleaseDate>12/15/1997</ReleaseDate>
+<Platform>Game.com</Platform>
+</Game>
+<Game>
+<id>1517</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>03/31/1993</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>5735</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>5901</id>
+<GameTitle>Batman: Vengeance</GameTitle>
+<ReleaseDate>11/18/2001</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>6240</id>
+<GameTitle>Batman Returns</GameTitle>
+<ReleaseDate>01/01/1992</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>21765</id>
+<GameTitle>Batman Forever</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>26414</id>
+<GameTitle>Batman: Shadows of Gotham</GameTitle>
+<ReleaseDate>09/27/2014</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>35294</id>
+<GameTitle>Batman: The Caped Crusader</GameTitle>
+<ReleaseDate>01/01/1988</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>37240</id>
+<GameTitle>Batman: Return To Arkham</GameTitle>
+<ReleaseDate>01/01/2017</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>10830</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>9056</id>
+<GameTitle>Batman: Arkham Asylum</GameTitle>
+<ReleaseDate>08/25/2009</ReleaseDate>
+<Platform>Mac OS</Platform>
+</Game>
+<Game>
+<id>11198</id>
+<GameTitle>Batman: The Animated Series</GameTitle>
+<ReleaseDate>11/12/1993</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>17108</id>
+<GameTitle>Batman: Arkham Origins</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>18473</id>
+<GameTitle>Batman Arkham Origins: Blackgate</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>20543</id>
+<GameTitle>Adventures of Batman &amp; Robin</GameTitle>
+<ReleaseDate>05/26/1995</ReleaseDate>
+<Platform>Sega Game Gear</Platform>
+</Game>
+<Game>
+<id>28287</id>
+<GameTitle>Batman: The Movie</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Amstrad CPC</Platform>
+</Game>
+<Game>
+<id>25505</id>
+<GameTitle>Batman: The Caped Crusader</GameTitle>
+<ReleaseDate>09/08/1988</ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>337</id>
+<GameTitle>Batman: The Video Game</GameTitle>
+<ReleaseDate>02/01/1990</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>42313</id>
+<GameTitle>Batman: The Caped Crusader</GameTitle>
+<ReleaseDate>01/01/1988</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>38122</id>
+<GameTitle>Batman: The Movie</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Atari ST</Platform>
+</Game>
+<Game>
+<id>46199</id>
+<GameTitle>Batman Return To Arkham</GameTitle>
+<ReleaseDate>01/01/2017</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>3780</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>16820</id>
+<GameTitle>Batman: Arkham Origins</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>17412</id>
+<GameTitle>Batman: Arkham Origins</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>17645</id>
+<GameTitle>Batman: Arkham Origins</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>19963</id>
+<GameTitle>Batman: Arkham Origins Blackgate</GameTitle>
+<ReleaseDate>10/25/2013</ReleaseDate>
+<Platform>Sony Playstation Vita</Platform>
+</Game>
+<Game>
+<id>20814</id>
+<GameTitle>Batman: Arkham Knight</GameTitle>
+<ReleaseDate>06/23/2015</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>21456</id>
+<GameTitle>Batman: Arkham Knight</GameTitle>
+<ReleaseDate>06/23/2015</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>37239</id>
+<GameTitle>Batman: The Telltale Series</GameTitle>
+<ReleaseDate>09/13/2016</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>42315</id>
+<GameTitle>Batman: The Movie</GameTitle>
+<ReleaseDate>02/01/1990</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>6697</id>
+<GameTitle>Batman: The Movie</GameTitle>
+<ReleaseDate>07/15/1989</ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>8972</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>9057</id>
+<GameTitle>Batman: Arkham Asylum</GameTitle>
+<ReleaseDate>08/25/2009</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>11199</id>
+<GameTitle>Batman: The Video Game</GameTitle>
+<ReleaseDate>06/13/1990</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>14869</id>
+<GameTitle>LEGO Batman/Pure</GameTitle>
+<ReleaseDate>01/01/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>21415</id>
+<GameTitle>Batman: Arkham Knight</GameTitle>
+<ReleaseDate>06/23/2015</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>12635</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>39421</id>
+<GameTitle>Batman the Movie</GameTitle>
+<ReleaseDate>01/01/1989</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+<Game>
+<id>33543</id>
+<GameTitle>Batman: The Caped Crusader</GameTitle>
+<ReleaseDate>12/14/1988</ReleaseDate>
+<Platform>Sinclair ZX Spectrum</Platform>
+</Game>
+<Game>
+<id>44026</id>
+<GameTitle>Batman The Telltale Series</GameTitle>
+<ReleaseDate>09/14/2016</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>45170</id>
+<GameTitle>Batman: The Telltale Series</GameTitle>
+<ReleaseDate>09/13/2016</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>4279</id>
+<GameTitle>Batman: The Video Game</GameTitle>
+<ReleaseDate>07/19/1990</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>5929</id>
+<GameTitle>Batman: Arkham Asylum</GameTitle>
+<ReleaseDate>08/25/2009</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>5981</id>
+<GameTitle>Batman: Dark Tomorrow</GameTitle>
+<ReleaseDate>03/18/2003</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>9058</id>
+<GameTitle>Batman: Arkham City</GameTitle>
+<ReleaseDate>10/18/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>28354</id>
+<GameTitle>Batman: The Movie</GameTitle>
+<ReleaseDate>06/05/1989</ReleaseDate>
+<Platform>Sinclair ZX Spectrum</Platform>
+</Game>
+<Game>
+<id>48080</id>
+<GameTitle>Batman Arkham VR</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>36339</id>
+<GameTitle>Lego Batman: Beyond Gotham</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Android</Platform>
+</Game>
+<Game>
+<id>36492</id>
+<GameTitle>Batman The Movie</GameTitle>
+<ReleaseDate>01/01/1989</ReleaseDate>
+<Platform>MSX</Platform>
+</Game>
+<Game>
+<id>37279</id>
+<GameTitle>Batman: Arkham VR</GameTitle>
+<ReleaseDate>10/13/2016</ReleaseDate>
+<Platform>Sony Playstation 4</Platform>
+</Game>
+<Game>
+<id>38121</id>
+<GameTitle>Batman: The Caped Crusader</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Atari ST</Platform>
+</Game>
+<Game>
+<id>44320</id>
+<GameTitle>Batman: The Telltale Series</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>46201</id>
+<GameTitle>Batman The Telltale Series</GameTitle>
+<ReleaseDate>08/02/2016</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+<Game>
+<id>190</id>
+<GameTitle>Batman: Arkham Asylum</GameTitle>
+<ReleaseDate>09/15/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>931</id>
+<GameTitle>Batman: Arkham City</GameTitle>
+<ReleaseDate>11/25/2011</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>9059</id>
+<GameTitle>Batman: Arkham City</GameTitle>
+<ReleaseDate>10/18/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>7515</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>13180</id>
+<GameTitle>Lego Batman: The Videogame</GameTitle>
+<ReleaseDate>09/23/2008</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>11569</id>
+<GameTitle>Batman: Gotham City Racer</GameTitle>
+<ReleaseDate>04/19/2001</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>22042</id>
+<GameTitle>Batman: Chaos in Gotham</GameTitle>
+<ReleaseDate>04/16/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>30780</id>
+<GameTitle>Batman Dark Tomorrow</GameTitle>
+<ReleaseDate>03/25/2003</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>48726</id>
+<GameTitle>Batman Arkham Origins Blackgate</GameTitle>
+<ReleaseDate>04/01/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>37055</id>
+<GameTitle>Batman Forever: The Arcade Game</GameTitle>
+<ReleaseDate>06/13/1996</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>20031</id>
+<GameTitle>Batman Forever: The Arcade Game</GameTitle>
+<ReleaseDate>12/03/1996</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>23592</id>
+<GameTitle>LEGO Batman 3: Beyond Gotham</GameTitle>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>1049</id>
+<GameTitle>The Adventures of Batman &amp; Robin</GameTitle>
+<ReleaseDate>12/01/1994</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>9738</id>
+<GameTitle>The Adventures of Batman &amp; Robin</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>23926</id>
+<GameTitle>LEGO Batman 3: Beyond Gotham</GameTitle>
+<ReleaseDate>11/11/2014</ReleaseDate>
+<Platform>Microsoft Xbox One</Platform>
+</Game>
+</Data>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>40772</id>
+<GameTitle>Sky Skipper</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>01/01/1981</ReleaseDate>
+<Overview>The object is to rescue an assortment of animals that have been caged by mischievous gorillas. You must pilot your biplane through a scrolling maze and rescue those animals by first dropping a bomb on a gorilla that momentarily knocks him out on his duff which in turn opens the cages. During his brief period of incapacitation you must fly your plane low enough without touching any part of the maze and graze the released animals thus effecting their rescue. You must move quickly since the gorilla will eventually leap back on his feet at which time the cages are locked.
+
+There are four cell blocks and two gorillas per maze. Each gorilla can open two sets of cages. You can lose a plane by bumping into the walls of the maze, into a gorilla, or into one of a trio of clouds that float across the maze in the game's higher skill levels. Since running out of fuel will also cost you a life, you have to keep an eye on your fuel guage, located at the bottom of the screen. The only way to replenish your tanks is to pick up one of each kind of animal: one duck, one rabbit one cat and one turtle. Complete the first maze and you go on to the second maze that is slightly more complex. Complete the second maze and you return to the first maze at a higher level of difficulty and so on. The game is over when you lose all four biplanes that you get at the beginning of the game.
+
+Skillful and cautious flying are the key to success in the game. Do not move too quickly even if it means you will miss out before the gorilla rights himself. Instead, just go back and bomb him again. You will fly faster to your destination if you point your plane vertically, but in trying to level off you will invariably crash before rescuing. Your best bet is to glide in a horizontal position when rescuing, thus avoiding the dangerous manuever of righting yourself when you reach the animals.</Overview>
+<Genres><genre>Action</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Rating>7</Rating><Similar><SimilarCount>1</SimilarCount><Game><id>38234</id><PlatformId>22</PlatformId></Game></Similar><Images>
+<boxart side="front" width="220" height="318" thumb="boxart/thumb/original/front/40772-1.jpg">boxart/original/front/40772-1.jpg</boxart>
+<screenshot>
+<original width="220" height="193">screenshots/40772-1.jpg</original>
+<thumb>screenshots/thumb/40772-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

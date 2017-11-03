@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>33910</id>
+<GameTitle>Astro Boy</GameTitle>
+<PlatformId>13</PlatformId>
+<Platform>Sony Playstation Portable</Platform>
+<ReleaseDate>10/20/2009</ReleaseDate>
+<Overview>In ASTRO BOY: THE VIDEO GAME, players become the iconic hero, Astro Boy, and take to the streets and skies on an epic adventure to save Metro City from the clutches of the evil President Stone and his robot army. Utilizing Astro's entire arsenal of iconic weapons and abilities - Super Strength, Flight, Arm Cannons, Butt Machine Guns and Drill Attacks - players battle hordes of robot enemies and colossal bosses including some never-before-seen enemies across Metro City and the mysterious Surface. Using an intuitive combat system that adds depth to gameplay, players experience classic platform action and exhilarating combat levels as they use Astro’s unique rocket boosters to hover, avoid enemies and zip out of the way of danger. [D3Publisher]</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>D3Publisher</Publisher>
+<Similar><SimilarCount>2</SimilarCount><Game><id>5043</id><PlatformId>9</PlatformId></Game><Game><id>5247</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="front" width="1000" height="1731" thumb="boxart/thumb/original/front/33910-1.jpg">boxart/original/front/33910-1.jpg</boxart>
+<clearlogo width="400" height="155">clearlogo/33910.png</clearlogo></Images>
+</Game>
+</Data>

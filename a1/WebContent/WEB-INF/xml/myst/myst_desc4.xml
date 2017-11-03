@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>11303</id>
+<GameTitle>Myst</GameTitle>
+<PlatformId>17</PlatformId>
+<Platform>Sega Saturn</Platform>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Overview>Journey to an island world eerily tinged with mystery--where every rock, every scrap of paper, every fleeting sound holds a clue to an ancient mystery. Enter, if you dare, a starkly beautiful landscape shrouded in intrigue and injustice. Only your wits and imagination hold the power to unlock the shocking betrayal of ages past. During your virtual exploration, Myst challenges your wits, instincts, and powers of observation.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Acclaim</Publisher>
+<Developer>Sunsoft</Developer>
+<Similar><SimilarCount>8</SimilarCount><Game><id>4849</id><PlatformId>25</PlatformId></Game><Game><id>5263</id><PlatformId>29</PlatformId></Game><Game><id>12798</id><PlatformId>4912</PlatformId></Game><Game><id>40461</id><PlatformId>8</PlatformId></Game><Game><id>6700</id><PlatformId>1</PlatformId></Game><Game><id>14905</id><PlatformId>4917</PlatformId></Game><Game><id>18707</id><PlatformId>10</PlatformId></Game><Game><id>30542</id><PlatformId>13</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/11303-1.jpg</original>
+<thumb>fanart/thumb/11303-1.jpg</thumb>
+</fanart>
+<boxart side="back" width="2045" height="2369" thumb="boxart/thumb/original/back/11303-1.jpg">boxart/original/back/11303-1.jpg</boxart>
+<boxart side="front" width="1433" height="2373" thumb="boxart/thumb/original/front/11303-1.jpg">boxart/original/front/11303-1.jpg</boxart>
+<clearlogo width="400" height="124">clearlogo/11303.png</clearlogo></Images>
+</Game>
+</Data>

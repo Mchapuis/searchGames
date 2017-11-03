@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17033</id>
+<GameTitle>Miami Law</GameTitle>
+<PlatformId>8</PlatformId>
+<Platform>Nintendo DS</Platform>
+<ReleaseDate>06/09/2009</ReleaseDate>
+<Overview>All in one, action and crime scene investigation. Miami Police Detective Law Martin and FBI Agent Sara Starling must save Miami. Sequences played as Sara include investigation and puzzle solving. Sequences played as Law include more action with shootouts and car chases. Unlockables include Sudoku and Texas Hold'em for a little relaxing downtime during a tough investigation.</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Hudson Entertainment</Publisher>
+<Rating>7</Rating><Images>
+<boxart side="front" width="1522" height="1357" thumb="boxart/thumb/original/front/17033-1.jpg">boxart/original/front/17033-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

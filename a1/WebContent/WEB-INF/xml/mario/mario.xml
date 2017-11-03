@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>344</id>
+<GameTitle>Dr. Mario</GameTitle>
+<ReleaseDate>07/27/1990</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>3178</id>
+<GameTitle>Dr. Mario</GameTitle>
+<ReleaseDate>12/31/1990</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>8628</id>
+<GameTitle>Mario Golf</GameTitle>
+<ReleaseDate>10/01/1999</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>14743</id>
+<GameTitle>Mario Clash</GameTitle>
+<ReleaseDate>10/01/1995</ReleaseDate>
+<Platform>Nintendo Virtual Boy</Platform>
+</Game>
+<Game>
+<id>141</id>
+<GameTitle>Paper Mario</GameTitle>
+<ReleaseDate>02/05/2001</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>189</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>06/01/1986</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>5178</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>03/24/1983</ReleaseDate>
+<Platform>Atari 5200</Platform>
+</Game>
+<Game>
+<id>48986</id>
+<GameTitle>Paper Mario</GameTitle>
+<ReleaseDate>04/30/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>1137</id>
+<GameTitle>Mario Tennis</GameTitle>
+<ReleaseDate>07/21/2000</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>21450</id>
+<GameTitle>Paper Mario</GameTitle>
+<ReleaseDate>07/30/2007</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>48618</id>
+<GameTitle>Dr. Mario</GameTitle>
+<ReleaseDate>03/27/2014</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>48909</id>
+<GameTitle>Mario Tennis</GameTitle>
+<ReleaseDate>07/09/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>1136</id>
+<GameTitle>Mario Golf</GameTitle>
+<ReleaseDate>07/30/1999</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>6395</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>5309</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>07/06/1983</ReleaseDate>
+<Platform>Atari 2600</Platform>
+</Game>
+<Game>
+<id>14904</id>
+<GameTitle>Hotel Mario</GameTitle>
+<ReleaseDate>08/05/1994</ReleaseDate>
+<Platform>Philips CD-i</Platform>
+</Game>
+<Game>
+<id>16258</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>07/14/1983</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>48903</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>06/20/2013</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>42</id>
+<GameTitle>Mario Party</GameTitle>
+<ReleaseDate>02/08/1999</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>1781</id>
+<GameTitle>Mario Paint</GameTitle>
+<ReleaseDate>05/05/1992</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>8629</id>
+<GameTitle>Mario Tennis</GameTitle>
+<ReleaseDate>06/16/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>31870</id>
+<GameTitle>Dr. Mario</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>21047</id>
+<GameTitle>Mario Bros.</GameTitle>
+<ReleaseDate>07/07/1988</ReleaseDate>
+<Platform>Atari 7800</Platform>
+</Game>
+<Game>
+<id>2348</id>
+<GameTitle>Super Mario Advance 2: Super Mario World</GameTitle>
+<ReleaseDate>02/11/2002</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>2347</id>
+<GameTitle>Super Mario Advance: Super Mario Bros. 2</GameTitle>
+<ReleaseDate>03/21/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>3275</id>
+<GameTitle>Super Mario All-Stars + Super Mario World</GameTitle>
+<ReleaseDate>12/16/1993</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>33065</id>
+<GameTitle>Mario Tennis: Ultra Smash</GameTitle>
+<ReleaseDate>11/20/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>33457</id>
+<GameTitle>Mario Bros. - Multi Screen</GameTitle>
+<ReleaseDate>03/14/1983</ReleaseDate>
+<Platform>Game &amp;amp; Watch</Platform>
+</Game>
+<Game>
+<id>42294</id>
+<GameTitle>Mario Kart 8 Deluxe</GameTitle>
+<ReleaseDate>04/28/2017</ReleaseDate>
+<Platform>Nintendo Switch</Platform>
+</Game>
+<Game>
+<id>166</id>
+<GameTitle>Mario Kart: Double Dash!!</GameTitle>
+<ReleaseDate>11/17/2003</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>1090</id>
+<GameTitle>Dr. Mario 64</GameTitle>
+<ReleaseDate>04/08/2001</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>41</id>
+<GameTitle>Super Mario Kart</GameTitle>
+<ReleaseDate>09/01/1992</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>2093</id>
+<GameTitle>Super Mario All-Stars</GameTitle>
+<ReleaseDate>08/01/1993</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>1780</id>
+<GameTitle>Mario is Missing!</GameTitle>
+<ReleaseDate>07/01/1993</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>2524</id>
+<GameTitle>Mario Sports Mix</GameTitle>
+<ReleaseDate>02/07/2011</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>5270</id>
+<GameTitle>Mario Power Tennis</GameTitle>
+<ReleaseDate>03/09/2009</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>6261</id>
+<GameTitle>Mario Superstar Baseball</GameTitle>
+<ReleaseDate>08/29/2005</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>6691</id>
+<GameTitle>Mario &amp; Luigi: Superstar Saga</GameTitle>
+<ReleaseDate>11/17/2003</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>12691</id>
+<GameTitle>Mario Tennis Open</GameTitle>
+<ReleaseDate>05/20/2012</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>17444</id>
+<GameTitle>Mario Kart 8</GameTitle>
+<ReleaseDate>05/30/2014</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>17487</id>
+<GameTitle>Dr. Mario &amp; Puzzle League</GameTitle>
+<ReleaseDate>11/28/2005</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>18346</id>
+<GameTitle>Mario Party: Island Tour</GameTitle>
+<ReleaseDate>11/22/2013</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>21356</id>
+<GameTitle>Mario no Super Picross</GameTitle>
+<ReleaseDate>09/14/1995</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>6886</id>
+<GameTitle>Super Mario 64 DS</GameTitle>
+<ReleaseDate>11/21/2004</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>42320</id>
+<GameTitle>Super Mario Odyssey</GameTitle>
+<ReleaseDate>10/27/2017</ReleaseDate>
+<Platform>Nintendo Switch</Platform>
+</Game>
+<Game>
+<id>41290</id>
+<GameTitle>Mario Party: Star Rush</GameTitle>
+<ReleaseDate>11/04/2016</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>45711</id>
+<GameTitle>Vs. Dr. Mario</GameTitle>
+<ReleaseDate>05/02/1990</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>6260</id>
+<GameTitle>Mario Golf: Toadstool Tour</GameTitle>
+<ReleaseDate>07/29/2003</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>216</id>
+<GameTitle>Super Mario 64</GameTitle>
+<ReleaseDate>09/29/1996</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>40</id>
+<GameTitle>Super Mario Galaxy</GameTitle>
+<ReleaseDate>11/12/2007</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>3280</id>
+<GameTitle>Tetris &amp; Dr. Mario</GameTitle>
+<ReleaseDate>12/01/1994</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>9288</id>
+<GameTitle>Mario Andretti Racing</GameTitle>
+<ReleaseDate>11/21/1996</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>8704</id>
+<GameTitle>Mario Kart: Super Circuit</GameTitle>
+<ReleaseDate>08/11/2001</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>6859</id>
+<GameTitle>New Super Mario Bros.</GameTitle>
+<ReleaseDate>05/15/2006</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>6688</id>
+<GameTitle>Mario vs. Donkey Kong</GameTitle>
+<ReleaseDate>05/24/2004</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>14576</id>
+<GameTitle>Mario Pinball Land</GameTitle>
+<ReleaseDate>06/15/2006</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>24486</id>
+<GameTitle>Dr. Mario Online RX</GameTitle>
+<ReleaseDate>05/26/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>24520</id>
+<GameTitle>Dr. Mario Express</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>22771</id>
+<GameTitle>Super Mario Bros. 2</GameTitle>
+<ReleaseDate>06/03/1986</ReleaseDate>
+<Platform>Famicom Disk System</Platform>
+</Game>
+<Game>
+<id>28034</id>
+<GameTitle>Mario Andretti Racing</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>25042</id>
+<GameTitle>Mario Party 10</GameTitle>
+<ReleaseDate>03/20/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>31277</id>
+<GameTitle>Super Mario Maker</GameTitle>
+<ReleaseDate>09/11/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>48905</id>
+<GameTitle>Mario Kart DS</GameTitle>
+<ReleaseDate>04/23/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>48912</id>
+<GameTitle>Mario &amp; Luigi: Superstar Saga</GameTitle>
+<ReleaseDate>04/03/2014</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>48981</id>
+<GameTitle>New Super Mario Bros.</GameTitle>
+<ReleaseDate>05/14/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>49009</id>
+<GameTitle>Super Mario Bros.</GameTitle>
+<ReleaseDate>09/19/2013</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>266</id>
+<GameTitle>Mario Kart 64</GameTitle>
+<ReleaseDate>02/10/1997</ReleaseDate>
+<Platform>Nintendo 64</Platform>
+</Game>
+<Game>
+<id>40138</id>
+<GameTitle>Super Mario War</GameTitle>
+<ReleaseDate>12/16/2006</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>44046</id>
+<GameTitle>Mario Sports Superstars</GameTitle>
+<ReleaseDate>03/24/2017</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>7659</id>
+<GameTitle>Mario Strikers Charged</GameTitle>
+<ReleaseDate>07/30/2007</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>2522</id>
+<GameTitle>Mario Power Tennis</GameTitle>
+<ReleaseDate>11/08/2004</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>2236</id>
+<GameTitle>Super Mario Sunshine</GameTitle>
+<ReleaseDate>08/25/2002</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>2318</id>
+<GameTitle>Mario Party 7</GameTitle>
+<ReleaseDate>11/07/2005</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>140</id>
+<GameTitle>Super Mario Bros.</GameTitle>
+<ReleaseDate>09/13/1985</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>169</id>
+<GameTitle>Mario Kart Wii</GameTitle>
+<ReleaseDate>04/27/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>171</id>
+<GameTitle>Super Mario Bros. 2</GameTitle>
+<ReleaseDate>10/09/1988</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>1726</id>
+<GameTitle>Super Mario Land</GameTitle>
+<ReleaseDate>04/21/1989</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>7522</id>
+<GameTitle>Mario Tennis: Power Tour</GameTitle>
+<ReleaseDate>12/05/2005</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>10605</id>
+<GameTitle>Super Mario 3D Land</GameTitle>
+<ReleaseDate>11/13/2011</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>12707</id>
+<GameTitle>Paper Mario: Sticker Star</GameTitle>
+<ReleaseDate>11/11/2012</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>12733</id>
+<GameTitle>Mario Kart 7</GameTitle>
+<ReleaseDate>12/04/2011</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+<Game>
+<id>16778</id>
+<GameTitle>Super Mario 64</GameTitle>
+<ReleaseDate>11/19/2006</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>23610</id>
+<GameTitle>Mario Teaches Typing</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>44856</id>
+<GameTitle>Super Mario Bros. Special</GameTitle>
+<ReleaseDate>09/12/1986</ReleaseDate>
+<Platform>PC-88</Platform>
+</Game>
+<Game>
+<id>30867</id>
+<GameTitle>Kaettekita Mario Bros.</GameTitle>
+<ReleaseDate>11/30/1988</ReleaseDate>
+<Platform>Famicom Disk System</Platform>
+</Game>
+<Game>
+<id>14936</id>
+<GameTitle>Mario Party Advance</GameTitle>
+<ReleaseDate>03/28/2005</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>37312</id>
+<GameTitle>Vs. Super Mario Bros.</GameTitle>
+<ReleaseDate>06/14/1986</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>47049</id>
+<GameTitle>Super Mario 64</GameTitle>
+<ReleaseDate>04/01/2015</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>2401</id>
+<GameTitle>Mario Party DS</GameTitle>
+<ReleaseDate>11/19/2007</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>7660</id>
+<GameTitle>Mario Super Sluggers</GameTitle>
+<ReleaseDate>08/25/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>2526</id>
+<GameTitle>Super Paper Mario</GameTitle>
+<ReleaseDate>04/09/2007</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>168</id>
+<GameTitle>Mario Party 8</GameTitle>
+<ReleaseDate>05/29/2008</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>2317</id>
+<GameTitle>Mario Party 6</GameTitle>
+<ReleaseDate>12/06/2004</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>4495</id>
+<GameTitle>Mario Lemieux Hockey</GameTitle>
+<ReleaseDate>01/01/1991</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>2831</id>
+<GameTitle>Mario is Missing!</GameTitle>
+<ReleaseDate>06/01/1993</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>9320</id>
+<GameTitle>Mario Party 9</GameTitle>
+<ReleaseDate>03/11/2012</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>7514</id>
+<GameTitle>Mario Golf: Advance Tour</GameTitle>
+<ReleaseDate>06/22/2004</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>18153</id>
+<GameTitle>Super Mario 3D World</GameTitle>
+<ReleaseDate>11/22/2013</ReleaseDate>
+<Platform>Nintendo Wii U</Platform>
+</Game>
+<Game>
+<id>10750</id>
+<GameTitle>Mario Kart Arcade GP</GameTitle>
+<ReleaseDate>10/12/2005</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>20487</id>
+<GameTitle>Mario Golf: World Tour</GameTitle>
+<ReleaseDate>05/02/2014</ReleaseDate>
+<Platform>Nintendo 3DS</Platform>
+</Game>
+</Data>

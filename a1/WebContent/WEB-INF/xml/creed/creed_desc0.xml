@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>12</id>
+<GameTitle>Assassin's Creed</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>04/09/2008</ReleaseDate>
+<Overview>The game centers on the use of a machine named the "Animus", which allows the viewing of the protagonist's genetic memories of his ancestors.
+
+Through this plot device, details emerge of a struggle between two factions, the Knights Templar and the Assassins (Hashshashin), over an artifact known as a "Piece of Eden" and the game primarily takes place during the Third Crusade in the Holy Land in 1191.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Sandbox</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=cc-ClutaN_I</Youtube>
+<Publisher>Ubisoft</Publisher>
+<Developer>Ubisoft Montreal</Developer>
+<Rating>7.6923</Rating><Similar><SimilarCount>2</SimilarCount><Game><id>7139</id><PlatformId>15</PlatformId></Game><Game><id>5927</id><PlatformId>12</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-1.jpg</original>
+<thumb>fanart/thumb/12-1.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-2.jpg</original>
+<thumb>fanart/thumb/12-2.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-3.jpg</original>
+<thumb>fanart/thumb/12-3.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-4.jpg</original>
+<thumb>fanart/thumb/12-4.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-5.jpg</original>
+<thumb>fanart/thumb/12-5.jpg</thumb>
+</fanart>
+<fanart>
+<original width="1920" height="1080">fanart/original/12-6.jpg</original>
+<thumb>fanart/thumb/12-6.jpg</thumb>
+</fanart>
+<boxart side="front" width="1532" height="2176" thumb="boxart/thumb/original/front/12-1.jpg">boxart/original/front/12-1.jpg</boxart>
+<banner width="760" height="140">graphical/12-g.jpg</banner><screenshot>
+<original width="1920" height="1080">screenshots/12-1.jpg</original>
+<thumb>screenshots/thumb/12-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/12-2.jpg</original>
+<thumb>screenshots/thumb/12-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/12-3.jpg</original>
+<thumb>screenshots/thumb/12-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1920" height="1080">screenshots/12-4.jpg</original>
+<thumb>screenshots/thumb/12-4.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="200">clearlogo/12.png</clearlogo></Images>
+</Game>
+</Data>

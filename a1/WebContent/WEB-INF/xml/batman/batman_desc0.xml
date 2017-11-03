@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>33228</id>
+<GameTitle>Batman</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>06/08/1990</ReleaseDate>
+<Overview>Based on the 1989-Batman movie. The game consists of five different parts, each resembling well known game types. Part one, the chemical plant: Hunt down Jack Napier who has raided the plant (typical platform action, climb ladders or use "Bat"-rope and shoot at some enemies...). Part two, "Batmobile" (...the car): Joker is chasing you and have to escape to "Bat"-cave. Avoid obstacles like police blocking the road and others. Part three, "Bat"-cave: A puzzle game where you have to find a certain item (belonging to Joker) amongst other items. Part four, "Batjet": Cut the ropes of the balloons which are filled with poisonous gas. Part five, the cathedral: Hunt down Joker. This part plays like the first one. Finally you will confront Joker in a fight that decides the fate of Gotham city.</Overview>
+<ESRB>E10+ - Everyone 10+</ESRB>
+<Genres><genre>Action</genre><genre>Fighting</genre></Genres><Co-op>No</Co-op>
+<Publisher>Ocean Software</Publisher>
+<Developer>Ocean Software</Developer>
+<Rating>7</Rating><Similar><SimilarCount>8</SimilarCount><Game><id>20378</id><PlatformId>4911</PlatformId></Game><Game><id>34812</id><PlatformId>4914</PlatformId></Game><Game><id>31662</id><PlatformId>23</PlatformId></Game><Game><id>10686</id><PlatformId>23</PlatformId></Game><Game><id>36491</id><PlatformId>4929</PlatformId></Game><Game><id>6238</id><PlatformId>36</PlatformId></Game><Game><id>35375</id><PlatformId>4913</PlatformId></Game><Game><id>20243</id><PlatformId>34</PlatformId></Game></Similar><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/33228-1.jpg</original>
+<thumb>fanart/thumb/33228-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="500" height="702" thumb="boxart/thumb/original/front/33228-1.jpg">boxart/original/front/33228-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

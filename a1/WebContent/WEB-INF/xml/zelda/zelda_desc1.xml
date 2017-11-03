@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>48758</id>
+<GameTitle>The Legend of Zelda</GameTitle>
+<PlatformId>38</PlatformId>
+<Platform>Nintendo Wii U</Platform>
+<ReleaseDate>08/29/2013</ReleaseDate>
+<Overview>Reunite the Triforce and send Ganon packing!
+
+Ganon, the King of Evil, has broken free of the Dark World and has captured Hyrule s beloved Princess Zelda. But, before she was caught, Zelda managed to shatter the Triforce of Wisdom and scatter its eight pieces throughout Hyrule. You begin your adventure by finding a small wooden sword in a dark cave. Then, as you grow in stature, experience, and strength, so do your weapons. Help Link collect the captured pieces of the Triforce, rescue the princess, and thwart Ganon s evil plans!
+
+Virtual Console
+This classic game is part of the Virtual Console service, which brings you great games created for consoles such as NES™, Super NES™ and Game Boy™ Advance. We hope you'll enjoy the new features (including off-TV play) that have been added to this title.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=v-GORSSX11o</Youtube>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>40126</id><PlatformId>4950</PlatformId></Game><Game><id>113</id><PlatformId>7</PlatformId></Game><Game><id>14574</id><PlatformId>9</PlatformId></Game></Similar><Images>
+<boxart side="front" width="124" height="119" thumb="boxart/thumb/original/front/48758-1.jpg">boxart/original/front/48758-1.jpg</boxart>
+<screenshot>
+<original width="703" height="393">screenshots/48758-1.jpg</original>
+<thumb>screenshots/thumb/48758-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="699" height="399">screenshots/48758-2.jpg</original>
+<thumb>screenshots/thumb/48758-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="698" height="400">screenshots/48758-3.jpg</original>
+<thumb>screenshots/thumb/48758-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="700" height="399">screenshots/48758-4.jpg</original>
+<thumb>screenshots/thumb/48758-4.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="695" height="400">screenshots/48758-5.jpg</original>
+<thumb>screenshots/thumb/48758-5.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38830</id>
+<GameTitle>Armored Car</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>01/01/1981</ReleaseDate>
+<Overview>You drive a money van (the armoured car) through as it scrolls from right to left. Some intersections are marked with directions. You pick up money to deliver to banks while avoiding criminals by dropping saw horses on the road. Fuel levels must be replenished at gas stations along the way.</Overview>
+<Genres><genre>Strategy</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Publisher>Stern Electronics</Publisher>
+<Developer>Stern Electronics</Developer>
+<Rating>6</Rating><Images>
+<boxart side="front" width="638" height="885" thumb="boxart/thumb/original/front/38830-1.jpg">boxart/original/front/38830-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

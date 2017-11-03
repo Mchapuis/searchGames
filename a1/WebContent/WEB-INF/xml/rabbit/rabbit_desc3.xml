@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>37875</id>
+<GameTitle>Rabbit Trail</GameTitle>
+<PlatformId>4953</PlatformId>
+<Platform>Texas Instruments TI-99/4A</Platform>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<Overview>In "Rabbit Trail," you control the eponymous character, trying to collect all of the characters before other critters get you. You follow a static trail, using rabbit holes to climb from platform to platform. Jump to evade weasels and snag carrots. Later levels include hawks - and one badly timed jump could land you right in their claws.
+
+Rabbit Trail is a Donkey Kong style clone.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=lDoHDPU5KPk</Youtube>
+<Publisher>Funware</Publisher>
+<Developer>Funware</Developer>
+<Rating>4</Rating><Images>
+<boxart side="front" width="820" height="1122" thumb="boxart/thumb/original/front/37875-1.jpg">boxart/original/front/37875-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

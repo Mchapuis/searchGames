@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>37684</id>
+<GameTitle>Zelda: Picross</GameTitle>
+<PlatformId>1</PlatformId>
+<Platform>PC</Platform>
+<ReleaseDate>08/12/2010</ReleaseDate>
+<Overview>Zelda: Picross is a fanmade puzzle game in the Zelda universe.
+
+After a wish to Triforce formulated by Ganon, the kingdom of Hyrule transformed into Picross grids. Gathering his courage and a pencil, Link went on to take up this new challenge.</Overview>
+<Genres><genre>Puzzle</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Vincent Jouillat</Publisher>
+<Developer>Vincent Jouillat</Developer>
+<Images>
+<boxart side="front" width="320" height="240" thumb="boxart/thumb/original/front/37684-1.png">boxart/original/front/37684-1.png</boxart>
+</Images>
+</Game>
+</Data>

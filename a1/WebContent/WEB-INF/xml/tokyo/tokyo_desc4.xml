@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>38267</id>
+<GameTitle>Tokyo Xtreme Racer 3</GameTitle>
+<PlatformId>11</PlatformId>
+<Platform>Sony Playstation 2</Platform>
+<ReleaseDate>11/18/2003</ReleaseDate>
+<Overview>In 2001, Tokyo Xtreme Racer Zero gave players the opportunity to tear up the highways of Tokyo. Now two years later, Tokyo Xtreme Racer 3 adds the highways of Yokohama, Osaka and Nagoya, taking total road length to a monster 200 miles. Choose accurately modeled cars from over 15 different licensed manufacturers such as Nissan, Toyota, GM, Ford, Merceds-Benz and Volkswagen.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Racing</genre></Genres><Co-op>No</Co-op>
+<Publisher>Crave</Publisher>
+<Developer>Genki</Developer>
+<Images>
+<boxart side="back" width="1524" height="2156" thumb="boxart/thumb/original/back/38267-1.jpg">boxart/original/back/38267-1.jpg</boxart>
+<boxart side="front" width="1524" height="2156" thumb="boxart/thumb/original/front/38267-1.jpg">boxart/original/front/38267-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

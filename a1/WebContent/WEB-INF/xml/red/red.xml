@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<Game>
+<id>19477</id>
+<GameTitle>RED</GameTitle>
+<ReleaseDate>03/28/2013</ReleaseDate>
+<Platform>Ouya</Platform>
+</Game>
+<Game>
+<id>4593</id>
+<GameTitle>Red Zone</GameTitle>
+<ReleaseDate>11/01/1994</ReleaseDate>
+<Platform>Sega Genesis</Platform>
+</Game>
+<Game>
+<id>22916</id>
+<GameTitle>Red Baron</GameTitle>
+<ReleaseDate>05/01/1980</ReleaseDate>
+<Platform>Magnavox Odyssey 2</Platform>
+</Game>
+<Game>
+<id>8269</id>
+<GameTitle>Red Earth</GameTitle>
+<ReleaseDate>11/21/1996</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>14396</id>
+<GameTitle>Red Ocean</GameTitle>
+<ReleaseDate>10/26/2007</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>25350</id>
+<GameTitle>Red Baron</GameTitle>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35533</id>
+<GameTitle>Red Zone</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Sega Mega Drive</Platform>
+</Game>
+<Game>
+<id>791</id>
+<GameTitle>Red Faction</GameTitle>
+<ReleaseDate>09/18/2001</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>4799</id>
+<GameTitle>Red Faction</GameTitle>
+<ReleaseDate>05/21/2001</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>49673</id>
+<GameTitle>Red Baron</GameTitle>
+<ReleaseDate>06/06/1983</ReleaseDate>
+<Platform>Sinclair ZX Spectrum</Platform>
+</Game>
+<Game>
+<id>45455</id>
+<GameTitle>Red Alert</GameTitle>
+<ReleaseDate>05/01/1981</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>46253</id>
+<GameTitle>Red Sparrow</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Android</Platform>
+</Game>
+<Game>
+<id>5345</id>
+<GameTitle>Red Steel</GameTitle>
+<ReleaseDate>11/19/2006</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>8445</id>
+<GameTitle>Nation Red</GameTitle>
+<ReleaseDate>08/23/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>14748</id>
+<GameTitle>Red Alarm</GameTitle>
+<ReleaseDate>08/14/1995</ReleaseDate>
+<Platform>Nintendo Virtual Boy</Platform>
+</Game>
+<Game>
+<id>48425</id>
+<GameTitle>Red Zone</GameTitle>
+<ReleaseDate>08/08/1985</ReleaseDate>
+<Platform>MSX</Platform>
+</Game>
+<Game>
+<id>34932</id>
+<GameTitle>Red Eclipse</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>34588</id>
+<GameTitle>Red Faction</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>N-Gage</Platform>
+</Game>
+<Game>
+<id>41881</id>
+<GameTitle>Red L.E.D.</GameTitle>
+<ReleaseDate>10/01/1987</ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>13772</id>
+<GameTitle>Red Asphalt</GameTitle>
+<ReleaseDate>11/30/1998</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>33230</id>
+<GameTitle>Red Storm Rising</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>41702</id>
+<GameTitle>3-D Red Baron</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Atari 800</Platform>
+</Game>
+<Game>
+<id>792</id>
+<GameTitle>Red Faction II</GameTitle>
+<ReleaseDate>10/15/2002</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>824</id>
+<GameTitle>Red Steel 2</GameTitle>
+<ReleaseDate>03/23/2010</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>956</id>
+<GameTitle>Red Faction: Armageddon</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>191</id>
+<GameTitle>Red Dead Redemption</GameTitle>
+<ReleaseDate>05/18/2010</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>12936</id>
+<GameTitle>Red Faction II</GameTitle>
+<ReleaseDate>04/01/2003</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>16279</id>
+<GameTitle>Red Johnson's Chronicles</GameTitle>
+<ReleaseDate>04/19/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>44709</id>
+<GameTitle>Gachasute! Dino Device - Red</GameTitle>
+<ReleaseDate>07/06/2002</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>1888</id>
+<GameTitle>Little Red Hood</GameTitle>
+<ReleaseDate>01/01/1990</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>3997</id>
+<GameTitle>Red Faction Guerrilla</GameTitle>
+<ReleaseDate>09/15/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>4801</id>
+<GameTitle>Red Faction II</GameTitle>
+<ReleaseDate>10/15/2002</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>12439</id>
+<GameTitle>Red Faction: Armageddon</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>11575</id>
+<GameTitle>Command &amp; Conquer: Red Alert</GameTitle>
+<ReleaseDate>10/31/1997</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>16119</id>
+<GameTitle>Operation Flashpoint: Red River</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>16277</id>
+<GameTitle>Red Faction: Battlegrounds</GameTitle>
+<ReleaseDate>04/05/2011</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>19942</id>
+<GameTitle>Big Red Adventure</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>42735</id>
+<GameTitle>Konami RF2 - Red Fighter</GameTitle>
+<ReleaseDate>02/01/1985</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>44452</id>
+<GameTitle>Outlaw Volleyball Red Hot</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>45835</id>
+<GameTitle>Red Sea Crossing</GameTitle>
+<ReleaseDate>05/01/1983</ReleaseDate>
+<Platform>Atari 2600</Platform>
+</Game>
+<Game>
+<id>2356</id>
+<GameTitle>Pokémon Red Version</GameTitle>
+<ReleaseDate>02/27/1996</ReleaseDate>
+<Platform>Nintendo Game Boy</Platform>
+</Game>
+<Game>
+<id>13298</id>
+<GameTitle>Red Faction: Armageddon</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>13109</id>
+<GameTitle>Red Faction: Guerrilla</GameTitle>
+<ReleaseDate>06/02/2009</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>13135</id>
+<GameTitle>Solatorobo: Red the Hunter</GameTitle>
+<ReleaseDate>09/27/2011</ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>12771</id>
+<GameTitle>Operation Flashpoint: Red River</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>17199</id>
+<GameTitle>Flying Red Barrel</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>16278</id>
+<GameTitle>Red Faction: Battlegrounds</GameTitle>
+<ReleaseDate>04/06/2011</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>24202</id>
+<GameTitle>Red Baron Pack</GameTitle>
+<ReleaseDate>10/31/1998</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>23519</id>
+<GameTitle>Red Card 2003</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>30280</id>
+<GameTitle>Red Baron 3D</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>35612</id>
+<GameTitle>Red Baron (Atari)</GameTitle>
+<ReleaseDate>01/01/1980</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>1002</id>
+<GameTitle>Operation Flashpoint: Red River</GameTitle>
+<ReleaseDate>06/07/2011</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>5376</id>
+<GameTitle>Red Dead Revolver</GameTitle>
+<ReleaseDate>05/03/2005</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>8039</id>
+<GameTitle>Red Dead Revolver</GameTitle>
+<ReleaseDate>04/27/2004</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>8604</id>
+<GameTitle>Bomberman Max: Red Challenger</GameTitle>
+<ReleaseDate>05/14/2000</ReleaseDate>
+<Platform>Nintendo Game Boy Color</Platform>
+</Game>
+<Game>
+<id>6759</id>
+<GameTitle>Red Storm Rising</GameTitle>
+<ReleaseDate>07/01/1988</ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>9791</id>
+<GameTitle>RTX Red Rock</GameTitle>
+<ReleaseDate>06/17/2003</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>16314</id>
+<GameTitle>Red Baron Arcade</GameTitle>
+<ReleaseDate>09/18/2008</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>16321</id>
+<GameTitle>Red Baron Arcade</GameTitle>
+<ReleaseDate>06/30/2008</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>21976</id>
+<GameTitle>Wargame: Red Dragon</GameTitle>
+<ReleaseDate>04/17/2014</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>42352</id>
+<GameTitle>The Big Red Adventure</GameTitle>
+<ReleaseDate>01/01/1995</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>28491</id>
+<GameTitle>Shadow Ops: Red Mercury</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>48398</id>
+<GameTitle>The Red Star</GameTitle>
+<ReleaseDate>03/19/2010</ReleaseDate>
+<Platform>Sony Playstation Portable</Platform>
+</Game>
+<Game>
+<id>3490</id>
+<GameTitle>Pokémon Fire Red</GameTitle>
+<ReleaseDate>01/29/2004</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>220</id>
+<GameTitle>Command &amp; Conquer: Red Alert</GameTitle>
+<ReleaseDate>10/31/1996</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>47435</id>
+<GameTitle>Red Bull BC One</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Nintendo DS</Platform>
+</Game>
+<Game>
+<id>9956</id>
+<GameTitle>The Red Star</GameTitle>
+<ReleaseDate>04/23/2007</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>9040</id>
+<GameTitle>Red Dead Redemption</GameTitle>
+<ReleaseDate>05/18/2010</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>8364</id>
+<GameTitle>Colony Wars: Red Sun</GameTitle>
+<ReleaseDate>05/02/2000</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>11904</id>
+<GameTitle>Red Faction: Guerrilla</GameTitle>
+<ReleaseDate>06/02/2009</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>12685</id>
+<GameTitle>Red Baron (Sierra)</GameTitle>
+<ReleaseDate>12/19/1990</ReleaseDate>
+<Platform>Arcade</Platform>
+</Game>
+<Game>
+<id>11101</id>
+<GameTitle>Red Dog: Superior Firepower</GameTitle>
+<ReleaseDate>10/31/2000</ReleaseDate>
+<Platform>Sega Dreamcast</Platform>
+</Game>
+<Game>
+<id>16726</id>
+<GameTitle>Ring of Red</GameTitle>
+<ReleaseDate>03/12/2001</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>18241</id>
+<GameTitle>Big Red Racing</GameTitle>
+<ReleaseDate>02/29/1996</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>18378</id>
+<GameTitle>Red Faction II</GameTitle>
+<ReleaseDate>03/30/2003</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>21477</id>
+<GameTitle>WarBirds Red Baron</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>24976</id>
+<GameTitle>The Red Star</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>2326</id>
+<GameTitle>Viewtiful Joe: Red Hot Rumble</GameTitle>
+<ReleaseDate>11/08/2005</ReleaseDate>
+<Platform>Nintendo GameCube</Platform>
+</Game>
+<Game>
+<id>6746</id>
+<GameTitle>The Hunt for Red October</GameTitle>
+<ReleaseDate></ReleaseDate>
+<Platform>Commodore 64</Platform>
+</Game>
+<Game>
+<id>13941</id>
+<GameTitle>Red Ninja: End of Honor</GameTitle>
+<ReleaseDate>03/29/2005</ReleaseDate>
+<Platform>Microsoft Xbox</Platform>
+</Game>
+<Game>
+<id>16774</id>
+<GameTitle>Red Orchestra: Ostfront 41-45</GameTitle>
+<ReleaseDate>03/14/2006</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>17582</id>
+<GameTitle>Men of War: Red Tide</GameTitle>
+<ReleaseDate>11/03/2009</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>20030</id>
+<GameTitle>Command &amp; Conquer: Red Alert - Retaliation</GameTitle>
+<ReleaseDate>10/31/1997</ReleaseDate>
+<Platform>Sony Playstation</Platform>
+</Game>
+<Game>
+<id>20864</id>
+<GameTitle>Rudolph The Red-Nosed Reindeer</GameTitle>
+<ReleaseDate>11/09/2010</ReleaseDate>
+<Platform>Nintendo Wii</Platform>
+</Game>
+<Game>
+<id>55</id>
+<GameTitle>Command &amp; Conquer: Red Alert 3</GameTitle>
+<ReleaseDate>10/28/2008</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>2785</id>
+<GameTitle>The Hunt for Red October</GameTitle>
+<ReleaseDate>01/25/1991</ReleaseDate>
+<Platform>Nintendo Entertainment System (NES)</Platform>
+</Game>
+<Game>
+<id>221</id>
+<GameTitle>Command &amp; Conquer: Red Alert 2</GameTitle>
+<ReleaseDate>10/23/2000</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>7115</id>
+<GameTitle>Snoopy Vs. The Red Baron</GameTitle>
+<ReleaseDate>10/24/2006</ReleaseDate>
+<Platform>Sony Playstation Portable</Platform>
+</Game>
+<Game>
+<id>14353</id>
+<GameTitle>Viewtiful Joe: Red Hot Rumble</GameTitle>
+<ReleaseDate>03/22/2006</ReleaseDate>
+<Platform>Sony Playstation Portable</Platform>
+</Game>
+<Game>
+<id>18560</id>
+<GameTitle>Command &amp; Conquer: Red Alert 3</GameTitle>
+<ReleaseDate>11/14/2008</ReleaseDate>
+<Platform>Microsoft Xbox 360</Platform>
+</Game>
+<Game>
+<id>22179</id>
+<GameTitle>Snoopy and the Red Baron</GameTitle>
+<ReleaseDate>01/01/1983</ReleaseDate>
+<Platform>Atari 2600</Platform>
+</Game>
+<Game>
+<id>29699</id>
+<GameTitle>One Piece: Unlimited World Red</GameTitle>
+<ReleaseDate>07/08/2014</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>31601</id>
+<GameTitle>Woolfe: The Red Hood Diaries</GameTitle>
+<ReleaseDate>03/17/2015</ReleaseDate>
+<Platform>PC</Platform>
+</Game>
+<Game>
+<id>1324</id>
+<GameTitle>The Hunt for Red October</GameTitle>
+<ReleaseDate>1990</ReleaseDate>
+<Platform>Super Nintendo (SNES)</Platform>
+</Game>
+<Game>
+<id>3337</id>
+<GameTitle>Bomberman Max 2 Red Advance</GameTitle>
+<ReleaseDate>05/30/2002</ReleaseDate>
+<Platform>Nintendo Game Boy Advance</Platform>
+</Game>
+<Game>
+<id>13942</id>
+<GameTitle>Red Ninja: End of Honor</GameTitle>
+<ReleaseDate>03/30/2005</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>15241</id>
+<GameTitle>Red Dead Redemption: Undead Nightmare</GameTitle>
+<ReleaseDate>10/26/2010</ReleaseDate>
+<Platform>Sony Playstation 3</Platform>
+</Game>
+<Game>
+<id>21426</id>
+<GameTitle>One Piece: Unlimited World Red</GameTitle>
+<ReleaseDate>07/14/2014</ReleaseDate>
+<Platform>Sony Playstation Vita</Platform>
+</Game>
+<Game>
+<id>46261</id>
+<GameTitle>Snoopy vs. the Red Baron</GameTitle>
+<ReleaseDate>10/24/2006</ReleaseDate>
+<Platform>Sony Playstation 2</Platform>
+</Game>
+<Game>
+<id>9569</id>
+<GameTitle>The Hunt for Red October</GameTitle>
+<ReleaseDate>01/01/1987</ReleaseDate>
+<Platform>Amiga</Platform>
+</Game>
+</Data>

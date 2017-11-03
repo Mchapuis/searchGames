@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>3220</id>
+<GameTitle>Magic Boy</GameTitle>
+<PlatformId>6</PlatformId>
+<Platform>Super Nintendo (SNES)</Platform>
+<ReleaseDate>08/01/1996</ReleaseDate>
+<Overview>Join Magic Boy as he attempts to become a master wizard, and he does this by shooting enemies, putting them in a bag, and throwing them away. He also must get through four areas: Sand Land, Wet World, Plastic Place, and Future Zone. There are also several power-ups that help him on his quest.</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Platform</genre></Genres><Co-op>No</Co-op>
+<Publisher>JVC</Publisher>
+<Developer>Blue Turtle</Developer>
+<Images>
+<boxart side="back" width="2100" height="1542" thumb="boxart/thumb/original/back/3220-1.jpg">boxart/original/back/3220-1.jpg</boxart>
+<boxart side="front" width="2100" height="1551" thumb="boxart/thumb/original/front/3220-1.jpg">boxart/original/front/3220-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

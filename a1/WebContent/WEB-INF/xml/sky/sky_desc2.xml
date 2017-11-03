@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>45570</id>
+<GameTitle>Sky Base</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>05/01/1982</ReleaseDate>
+<Overview>The player controls a space ship, moving left to right at the bottom of the screen.</Overview>
+<Genres><genre>Action</genre></Genres><Co-op>No</Co-op>
+<Developer>Omori Electronics Corporation</Developer>
+<Images>
+<boxart side="front" width="850" height="1202" thumb="boxart/thumb/original/front/45570-1.jpg">boxart/original/front/45570-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

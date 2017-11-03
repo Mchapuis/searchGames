@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>37697</id>
+<GameTitle>Car Fighter</GameTitle>
+<PlatformId>4929</PlatformId>
+<Platform>MSX</Platform>
+<Overview>Fun and addictive game by Casio which looks and plays like Konami's Road Fighter but with some combat elements. The player's car can shot bullets in several directions as well as grenades. It's fast and challenging, definitely recommended, specially for fans of Road Fighter or F1 Spirit. It has some funny engrish text like "Daras" instead of Dallas.</Overview>
+<Genres><genre>Racing</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Casio</Publisher>
+<Developer>Casio</Developer>
+<Images>
+<boxart side="front" width="396" height="542" thumb="boxart/thumb/original/front/37697-1.jpg">boxart/original/front/37697-1.jpg</boxart>
+<screenshot>
+<original width="320" height="210">screenshots/37697-1.jpg</original>
+<thumb>screenshots/thumb/37697-1.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

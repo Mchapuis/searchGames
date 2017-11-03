@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>30540</id>
+<GameTitle>Miami Vice</GameTitle>
+<PlatformId>13</PlatformId>
+<Platform>Sony Playstation Portable</Platform>
+<Genres><genre>Action</genre><genre>Adventure</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Sierra</Publisher>
+<Developer>Sierra</Developer>
+<Similar><SimilarCount>2</SimilarCount><Game><id>19024</id><PlatformId>40</PlatformId></Game><Game><id>38016</id><PlatformId>11</PlatformId></Game></Similar><Images>
+<boxart side="front" width="250" height="431" thumb="boxart/thumb/original/front/30540-1.png">boxart/original/front/30540-1.png</boxart>
+</Images>
+</Game>
+</Data>

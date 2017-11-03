@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>8269</id>
+<GameTitle>Red Earth</GameTitle>
+<PlatformId>23</PlatformId>
+<Platform>Arcade</Platform>
+<ReleaseDate>11/21/1996</ReleaseDate>
+<Overview>Red Earth, released in Japan as War-Zard (ウォーザード?), is a fantasy-themed 2D competitive fighting game released by Capcom as a coin-operated video game in 1996. It was the first game for Capcom '​s CP System III hardware, the same hardware which Street Fighter III and its derivatives ran on. Red Earth is the only CPS III video game which has never been officially ported to home platforms, although its characters have appeared in later Capcom games.</Overview>
+<Genres><genre>Fighting</genre></Genres><Players>2</Players><Co-op>No</Co-op>
+<Youtube>http://www.youtube.com/watch?v=Pkwn-iloYNg</Youtube>
+<Publisher>Capcom</Publisher>
+<Developer>Capcom</Developer>
+<Rating>6.5</Rating><Images>
+<fanart>
+<original width="1920" height="1080">fanart/original/8269-1.jpg</original>
+<thumb>fanart/thumb/8269-1.jpg</thumb>
+</fanart>
+<boxart side="front" width="800" height="1185" thumb="boxart/thumb/original/front/8269-1.jpg">boxart/original/front/8269-1.jpg</boxart>
+<clearlogo width="400" height="175">clearlogo/8269.png</clearlogo></Images>
+</Game>
+</Data>

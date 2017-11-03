@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>23788</id>
+<GameTitle>Hotline Miami</GameTitle>
+<PlatformId>4919</PlatformId>
+<Platform>Sony Playstation 4</Platform>
+<ReleaseDate>08/20/2014</ReleaseDate>
+<Overview>Step into the neon-soaked underground of 1980s Miami as bizarre messages on your answering machine seem to be urging you to commit terrible acts of violence -- but will you obey? Hotline Miami overflows with raw brutality and skull crushing close combat as you find yourself outgunned and using your wits to choreograph your way through impossible situations. An unmistakable visual style, a driving soundtrack, and a surreal plot that will have you question your own thirst for blood. Bash and blast through over 20 multiscreen levels with 35 unique weapons and collect 25 game-altering masks in one of the darkest and most unusual independent games on the scene.</Overview>
+<ESRB>M - Mature</ESRB>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Devoler</Publisher>
+<Developer>Dennaton Games</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>13958</id><PlatformId>1</PlatformId></Game><Game><id>19211</id><PlatformId>12</PlatformId></Game><Game><id>18228</id><PlatformId>39</PlatformId></Game></Similar><Images>
+<boxart side="front" width="550" height="340" thumb="boxart/thumb/original/front/23788-1.jpg">boxart/original/front/23788-1.jpg</boxart>
+</Images>
+</Game>
+</Data>

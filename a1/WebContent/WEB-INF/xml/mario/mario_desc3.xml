@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>14743</id>
+<GameTitle>Mario Clash</GameTitle>
+<PlatformId>4918</PlatformId>
+<Platform>Nintendo Virtual Boy</Platform>
+<ReleaseDate>10/01/1995</ReleaseDate>
+<Overview>Mario finds himself pitted against a host of evil and nasty enemies. You must help him outwit the Spikes, Para-Goombahs, and other beasts and evils that lurk inside a tower that reaches to the clouds. After stunning a Koopa, he uses it as ammo against his enemies! The attack is relentless!
+
+But watch out, there are also creatures made of fire and ice that must be avoided -- hazards at every turn. Even the narrow ledges on which Mario teeters and the pipes he races through must be traversed with caution!
+
+The pace gets hotter at each level, and the action jumps right out at you! Hold on! This 3-D Virtual Boy game offers a white-knuckled adventure that will keep you on the edge of your seat!</Overview>
+<ESRB>E - Everyone</ESRB>
+<Genres><genre>Action</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Nintendo</Publisher>
+<Developer>Nintendo</Developer>
+<Rating>6.5</Rating><Images>
+<boxart side="back" width="640" height="636" thumb="boxart/thumb/original/back/14743-1.jpg">boxart/original/back/14743-1.jpg</boxart>
+<boxart side="front" width="640" height="637" thumb="boxart/thumb/original/front/14743-1.jpg">boxart/original/front/14743-1.jpg</boxart>
+<banner width="760" height="140">graphical/14743-g.jpg</banner><screenshot>
+<original width="533" height="311">screenshots/14743-1.jpg</original>
+<thumb>screenshots/thumb/14743-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="533" height="311">screenshots/14743-2.jpg</original>
+<thumb>screenshots/thumb/14743-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="533" height="311">screenshots/14743-3.jpg</original>
+<thumb>screenshots/thumb/14743-3.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="107">clearlogo/14743.png</clearlogo></Images>
+</Game>
+</Data>

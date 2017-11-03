@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>35375</id>
+<GameTitle>Batman</GameTitle>
+<AlternateTitles><title>Bat Man</title></AlternateTitles><PlatformId>4913</PlatformId>
+<Platform>Sinclair ZX Spectrum</Platform>
+<ReleaseDate>01/01/1986</ReleaseDate>
+<Overview>Batman is a 1986 3D isometric action-adventure game by Ocean Software and the first Batman game ever developed.
+The object of the game is to rescue Robin by collecting the seven parts of the Batcraft hovercraft that are scattered around the Batcave. The gameplay takes place in a 3D isometric universe, which programmer John Ritman and artist Bernie Drummond would further develop for 1987's Head over Heels, and is notable for implementing an early example of a system that allows players to restart from an intermediate point in the game on the loss of all lives rather than returning all the way to the start (in this case the point at which Batman collects a "Batstone").</Overview>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Platform</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Ocean</Publisher>
+<Developer>Jon Ritman, Bernie Drummond, Mark Serlin, F. David Thorpe</Developer>
+<Rating>4</Rating><Similar><SimilarCount>8</SimilarCount><Game><id>20378</id><PlatformId>4911</PlatformId></Game><Game><id>34812</id><PlatformId>4914</PlatformId></Game><Game><id>10686</id><PlatformId>23</PlatformId></Game><Game><id>31662</id><PlatformId>23</PlatformId></Game><Game><id>36491</id><PlatformId>4929</PlatformId></Game><Game><id>33228</id><PlatformId>1</PlatformId></Game><Game><id>6238</id><PlatformId>36</PlatformId></Game><Game><id>20243</id><PlatformId>34</PlatformId></Game></Similar><Images>
+<boxart side="front" width="387" height="502" thumb="boxart/thumb/original/front/35375-1.jpg">boxart/original/front/35375-1.jpg</boxart>
+<screenshot>
+<original width="1440" height="1080">screenshots/35375-1.jpg</original>
+<thumb>screenshots/thumb/35375-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1440" height="1080">screenshots/35375-2.jpg</original>
+<thumb>screenshots/thumb/35375-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="294">clearlogo/35375.png</clearlogo></Images>
+</Game>
+</Data>

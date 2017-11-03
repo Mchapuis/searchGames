@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>17318</id>
+<GameTitle>Tokyo Jungle</GameTitle>
+<PlatformId>12</PlatformId>
+<Platform>Sony Playstation 3</Platform>
+<ReleaseDate>09/25/2012</ReleaseDate>
+<Overview>In TOKYO JUNGLE, everything is the enemy, and only the strongest will survive! 
+
+With over 50 playable animals to choose from, unleash your inner beast to hunt your way to the top of Tokyo's post-apocalyptic food chain. Whether in Story or Survival Mode, you never know where your next meal will come from or the dangers you'll face, so be prepared for anything and everything. Forage through this desolate but dangerous city to complete story-based challenges using a variety of survival skills, from all-out attack to stealth. Beware-- you are not the only animal out there hunting for survival!</Overview>
+<ESRB>T - Teen</ESRB>
+<Genres><genre>Action</genre><genre>Adventure</genre><genre>Life Simulation</genre><genre>Role-Playing</genre><genre>Sandbox</genre><genre>Stealth</genre><genre>Strategy</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=zasefwWK5fA</Youtube>
+<Publisher>Sony Computer Entertainment Incorporated</Publisher>
+<Developer>SCE Japan Studio, Playstation C.A.M.P., Crispy's!</Developer>
+<Images>
+<boxart side="front" width="1043" height="1214" thumb="boxart/thumb/original/front/17318-1.jpg">boxart/original/front/17318-1.jpg</boxart>
+<screenshot>
+<original width="1268" height="713">screenshots/17318-2.jpg</original>
+<thumb>screenshots/thumb/17318-2.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1280" height="720">screenshots/17318-3.jpg</original>
+<thumb>screenshots/thumb/17318-3.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="1066" height="465">screenshots/17318-4.jpg</original>
+<thumb>screenshots/thumb/17318-4.jpg</thumb>
+</screenshot>
+</Images>
+</Game>
+</Data>

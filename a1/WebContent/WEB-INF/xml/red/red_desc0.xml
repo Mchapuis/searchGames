@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>19477</id>
+<GameTitle>RED</GameTitle>
+<PlatformId>4921</PlatformId>
+<Platform>Ouya</Platform>
+<ReleaseDate>03/28/2013</ReleaseDate>
+<Overview>Update 1.2 - INFECTION! New level, new mode, new weapons and new enemies!
+
+Feeling angry?
+
+RED is the ultimate dual stick shooter - visceral, vibrant and filled to the brim with unlockables!
+
+Take the role of Rick Steele as he battles an invasion of mutants in the city. Using a variety of powerups, abilities and weapons, he will need to fend off hordes of disgusting and furious creatures dead set on consuming everything and everyone in their sight.
+
+Featuring:
+
+- Smexy cartoon graphics
+- Same couch multiplayer *NEW*
+- Unique player abilities
+- Special bonuses like the powerful Bio-Shield
+- Competitive leaderboards
+- Infection infinite survival mode
+
+PLUS! - Buy the full version for even more future content!
+
+1.11 - NEW IN GAME BESTIARY + BALANCE IMPROVEMENTS!</Overview>
+<Genres><genre>Shooter</genre></Genres><Players>2</Players><Co-op>Yes</Co-op>
+<Youtube>http://www.youtube.com/watch?v=https://DaeU0oYHcTA</Youtube>
+<Publisher>Knife Media</Publisher>
+<Developer>Knife Media</Developer>
+<Images>
+<boxart side="front" width="732" height="412" thumb="boxart/thumb/original/front/19477-1.png">boxart/original/front/19477-1.png</boxart>
+</Images>
+</Game>
+</Data>

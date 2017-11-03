@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Data>
+<baseImgUrl>http://thegamesdb.net/banners/</baseImgUrl>
+<Game>
+<id>34069</id>
+<GameTitle>Jelly Boy</GameTitle>
+<PlatformId>18</PlatformId>
+<Platform>Sega Genesis</Platform>
+<Overview>Jelly Boy is an unreleased Sega Mega Drive platform game. It was developed by Probe Software with the aim of being published by Ocean Software in February 1995. Electronic Arts are also credited.
+
+Jelly Boy on the Mega Drive was almost complete when it was axed for unknown reasons. Development is presumed to have taken place around 1994/1995 - a Game Boy version saw a release in PAL territories in 1994, with a similar Super Nintendo version being released in early 1995. No versions of the game have ever been released outside of PAL regions.
+
+It is entirely unrelated to another Super Nintendo game, Jelly Boy 2 which also wound up being cancelled - Jelly Boy 2 is actually a sequel to the Super Nintendo game Jerry Boy, known as Smart Ball outside of Japan.
+
+It is unknown why Jelly Boy was cancelled. Review copies were sent to the gaming press and a fully playable prototype has since been dumped and released online.</Overview>
+<Genres><genre>Action</genre></Genres><Players>1</Players><Co-op>No</Co-op>
+<Publisher>Ocean Software</Publisher>
+<Developer>Electronic Arts, Probe Software</Developer>
+<Similar><SimilarCount>3</SimilarCount><Game><id>24083</id><PlatformId>4</PlatformId></Game><Game><id>29390</id><PlatformId>36</PlatformId></Game><Game><id>1770</id><PlatformId>6</PlatformId></Game></Similar><Images>
+<boxart side="front" width="306" height="428" thumb="boxart/thumb/original/front/34069-1.jpg">boxart/original/front/34069-1.jpg</boxart>
+<screenshot>
+<original width="320" height="224">screenshots/34069-1.jpg</original>
+<thumb>screenshots/thumb/34069-1.jpg</thumb>
+</screenshot>
+<screenshot>
+<original width="256" height="240">screenshots/34069-2.jpg</original>
+<thumb>screenshots/thumb/34069-2.jpg</thumb>
+</screenshot>
+<clearlogo width="400" height="175">clearlogo/34069.png</clearlogo></Images>
+</Game>
+</Data>
